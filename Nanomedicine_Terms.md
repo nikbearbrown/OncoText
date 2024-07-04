@@ -265,9 +265,8 @@ Antonyms: None
 
 ---
 
-**Computational chemistry
+**Computational chemistry**  
 
-**  
 Description: A branch of theoretical chemistry with the goal of creating computer programs to calculate the properties of molecules (such as total energy, dipole moment, and vibrational frequencies) and to apply these programs to concrete chemical objects.  
 Synonyms: None  
 Acronyms: None  
