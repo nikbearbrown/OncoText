@@ -1,2787 +1,3251 @@
-#  Glossary of Oncology Terms
 
-#### American Association for the Study of Liver Diseases
-**Description:** A professional organization focused on advancing the science and practice of hepatology.
-**Synonyms:** American Liver Association
-**Acronyms:** AASLD
+### Glossary of Nanotechnology Terms
+
+**Liposome**
+- **Description:** A spherical vesicle having at least one lipid bilayer, used to deliver drugs or genetic material into a cell.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Micelle**
+- **Description:** An aggregate of surfactant molecules dispersed in a liquid colloid, forming a hydrophobic core and a hydrophilic shell.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanoemulsion**
+- **Description:** A fine oil/water or water/oil dispersion having droplets in the nanometer size range, used in drug delivery systems.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanosuspension**
+- **Description:** A submicron colloidal dispersion of nanoparticles, used to enhance the solubility of poorly soluble drugs.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanocolloid**
+- **Description:** A stable dispersion of nanosized particles in a continuous medium.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanovesicles**
+- **Description:** Small vesicles on the nanometer scale, used for targeted drug delivery and molecular imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanosomal**
+- **Description:** Relating to nanoscale liposomal formulations used in drug delivery.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanoionomer**
+- **Description:** A nanocomposite material used in dental and medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanodispersion**
+- **Description:** A dispersion containing nanoparticles evenly distributed in a continuous phase.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanomer**
+- **Description:** A term for nanomaterial or nanocomposite material.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanoclonal**
+- **Description:** Refers to the cloning of nanoscale materials or structures.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+
+**Nanoparticle**
+- **Description:** Particles between 1 and 100 nanometers in size, used in a variety of biomedical and industrial applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanocrystal**
+- **Description:** Crystalline nanoparticles used in electronic and optical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanobody**
+- **Description:** A type of antibody derived from single-domain antibodies, used in medical and biological research.
+- **Synonyms:** Single-domain antibody
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nano-fiber**
+- **Description:** Fibers with diameters in the nanometer range, used in filtration, medical, and composite materials.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanotube**
+- **Description:** Cylindrical nanostructures with novel properties, used in electronics, optics, and materials science.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanostrand**
+- **Description:** Strands of material on the nanometer scale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanofuse**
+- **Description:** A nanomaterial used for creating strong, lightweight composites.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanocomposite**
+- **Description:** A multiphase solid material with one of the phases having one, two, or three dimensions of less than 100 nanometers.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanopore**
+- **Description:** A nanoporous structure, often used in molecular separation and DNA sequencing.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanomilled**
+- **Description:** Refers to the process of milling materials to the nanometer scale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanofracture**
+- **Description:** Fracture of materials at the nanoscale, used in nanomechanics studies.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanodrop**
+- **Description:** A technique or tool for measuring very small volumes of liquid.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanochip**
+- **Description:** An integrated circuit or microchip at the nanoscale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanodisk**
+- **Description:** Disk-shaped nanoparticles used in drug delivery and diagnostic applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanobubble**
+- **Description:** Gas-filled bubbles at the nanoscale, used in biomedical imaging and therapy.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanochannel**
+- **Description:** Channels at the nanoscale used in fluidics and sensor applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanoparasol**
+- **Description:** A nanomaterial with umbrella-like properties, often used in protective coatings.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanotab**
+- **Description:** Tablets or pills that incorporate nanotechnology for improved delivery of active ingredients.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanopulse**
+- **Description:** A very short pulse of energy on the nanoscale, used in various technological applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanopac**
+- **Description:** A nanoparticle-based packaging or delivery system.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanobone**
+- **Description:** A nanomaterial used in bone regeneration and repair.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nano-scintillator**
+- **Description:** A nanomaterial that emits light when exposed to radiation, used in medical imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanofiltration**
+- **Description:** A filtration process that uses nanometer-sized pores to separate particles.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nano-MRI**
+- **Description:** Magnetic resonance imaging using nanotechnology to enhance resolution.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nano-imaging**
+- **Description:** Imaging techniques that use nanotechnology to improve resolution and sensitivity.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nano-electrosensing**
+- **Description:** Sensing techniques at the nanoscale using electrical properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanocatalysis**
+- **Description:** Catalysis processes using nanomaterials to increase reaction rates.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nano-hybrid**
+- **Description:** A hybrid material incorporating nanomaterials for enhanced properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanostim**
+- **Description:** Stimulation techniques at the nanoscale, often used in medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanocross**
+- **Description:** A nanomaterial with cross-linked structure.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanophthalmic**
+- **Description:** Relating to the application of nanotechnology in ophthalmology.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanophotothermal**
+- **Description:** Using nanotechnology for photothermal applications, such as in cancer treatment.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+  
+**Nano-drug**
+- **Description:** Drugs that use nanotechnology for improved delivery and efficacy.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanotechnology**
+- **Description:** The manipulation of matter on an atomic, molecular, and supramolecular scale for various applications.
+- **Synonyms:** Nanotech
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanomedicine**
+- **Description:** The application of nanotechnology for medical purposes, such as diagnostics, monitoring, and treatment.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanoencapsulated**
+- **Description:** Encapsulation of materials at the nanoscale, often for drug delivery.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanostructured**
+- **Description:** Materials with a structure at the nanoscale, offering unique properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanomolecular**
+- **Description:** Relating to molecules at the nanoscale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanoflu**
+- **Description:** A term possibly related to nano-sized flu particles or nanotechnology in flu treatment.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanocytology**
+- **Description:** The study of cells at the nanoscale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanodosing**
+- **Description:** The administration of very small doses of a substance using nanotechnology.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanomaterial**
+- **Description:** Materials with any external dimension in the nanoscale or having internal structure or surface structure in the nanoscale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanoformulation**
+- **Description:** The formulation of drugs or other substances using nanotechnology.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nano-hydroxyapatite**
+- **Description:** A nanomaterial used in bone grafting and dental applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanotite**
+- **Description:** A nanomaterial used in bone repair and dental implants.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanocurcumin**
+- **Description:** Nanoformulated curcumin used for enhanced bioavailability and therapeutic effects.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanosilver**
+- **Description:** Silver nanoparticles used for their antimicrobial properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanodiamond**
+- **Description:** Nanometer-sized diamonds used in a variety of applications, including biomedical and industrial uses.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nano-ceramic**
+- **Description:** Ceramic materials at the nanoscale, offering enhanced mechanical properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanovitamin**
+- **Description:** Vitamins formulated at the nanoscale for improved absorption and efficacy.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nano-iron**
+- **Description:** Iron nanoparticles used for environmental and biomedical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanocellulose**
+- **Description:** Cellulose materials at the nanoscale, used for their strength and lightweight properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+### Glossary of Nanotechnology Terms
+
+**Theranostic Nanomedicine**
+- **Description:** A field combining therapeutic and diagnostic nanomedicine to diagnose and treat diseases simultaneously.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanostructures**
+- **Description:** Structures with dimensions in the nanometer range, often with unique properties due to their size.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanotechnology**
+- **Description:** The manipulation of matter on an atomic, molecular, and supramolecular scale for various applications.
+- **Synonyms:** Nanotech
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanoparticles**
+- **Description:** Particles between 1 and 100 nanometers in size, used in various biomedical and industrial applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Liposomes**
+- **Description:** Spherical vesicles with at least one lipid bilayer, used to deliver drugs or genetic material into a cell.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanog Homeobox Protein**
+- **Description:** A transcription factor involved in maintaining the pluripotency of stem cells.
+- **Synonyms:** NANOG
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanocomposites**
+- **Description:** Materials composed of a matrix embedded with nanoparticles to improve certain properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanofibers**
+- **Description:** Fibers with diameters in the nanometer range, used in filtration, medical, and composite materials.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Metal Nanoparticles**
+- **Description:** Nanoparticles composed of metals, used in various applications including catalysis and medicine.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanotubes**
+- **Description:** Cylindrical nanostructures with novel properties, used in electronics, optics, and materials science.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Unilamellar Liposomes**
+- **Description:** Liposomes with a single lipid bilayer, used for drug delivery and other applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Micelles**
+- **Description:** Aggregates of surfactant molecules dispersed in a liquid colloid, forming a hydrophobic core and a hydrophilic shell.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanovirus**
+- **Description:** A virus with a size in the nanometer range.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanopore Sequencing**
+- **Description:** A technique for sequencing DNA using nanopores, allowing for real-time, high-throughput analysis.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanowires**
+- **Description:** Wire-like structures with a diameter in the nanometer range, used in various electronic and sensor applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Magnetite Nanoparticles**
+- **Description:** Iron oxide nanoparticles with magnetic properties, used in medical imaging and drug delivery.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanomedicine**
+- **Description:** The application of nanotechnology for medical purposes, such as diagnostics, monitoring, and treatment.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanopores**
+- **Description:** Nanometer-sized pores used in molecular separation and DNA sequencing.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanotubes, Carbon**
+- **Description:** Cylindrical carbon structures with novel properties, used in electronics, optics, and materials science.
+- **Synonyms:** Carbon Nanotubes
+- **Acronyms:** CNTs
+- **Descriptor:** MeSH Term
+
+**Nanocapsules**
+- **Description:** Nanoscale capsules used for drug delivery, often with a polymer shell.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanospheres**
+- **Description:** Spherical nanoparticles used in drug delivery and diagnostic applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanogels**
+- **Description:** Hydrogel particles in the nanometer range, used for drug delivery and tissue engineering.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanodiamonds**
+- **Description:** Nanometer-sized diamonds used in biomedical and industrial applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Pregnanolone**
+- **Description:** A neuroactive steroid involved in modulating GABA receptors.
+- **Synonyms:** Allopregnanolone
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Magnetic Iron Oxide Nanoparticles**
+- **Description:** Iron oxide nanoparticles with magnetic properties, used in medical imaging and drug delivery.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanoconjugates**
+- **Description:** Nanoparticles conjugated with biomolecules for targeted drug delivery and imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanoshells**
+- **Description:** Nanoparticles with a core-shell structure, often used in imaging and therapy.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanoarchaeota**
+- **Description:** A phylum of archaea with nanoscale cellular structures.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanotubes, Peptide**
+- **Description:** Peptide-based cylindrical nanostructures used in biomedical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanoparticle Drug Delivery System**
+- **Description:** Systems that use nanoparticles to deliver drugs to specific sites in the body.
+- **Synonyms:** None
+- **Acronyms:** NDDS
+- **Descriptor:** MeSH Term
+
+**Multifunctional Nanoparticles**
+- **Description:** Nanoparticles designed with multiple functionalities, such as targeting, imaging, and therapy.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Calcifying Nanoparticles**
+- **Description:** Nanoparticles involved in the calcification process, often studied in pathology.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanoviridae**
+- **Description:** A family of viruses with genomes in the nanometer range.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Layer-by-Layer Nanoparticles**
+- **Description:** Nanoparticles created by sequentially depositing layers of materials.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+  
+Sure, here's the revised list with the entries that have the description "A specific chemical compound." removed:
+
+**Liposomes**
+- **Description:** Spherical vesicles with at least one lipid bilayer, used to deliver drugs or genetic material into a cell.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NANOG protein, human**
+- **Description:** A protein involved in the regulation of pluripotency in human stem cells.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanog Homeobox Protein**
+- **Description:** A transcription factor involved in maintaining the pluripotency of stem cells.
+- **Synonyms:** NANOG
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Unilamellar Liposomes**
+- **Description:** Liposomes with a single lipid bilayer, used for drug delivery and other applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Micelles**
+- **Description:** Aggregates of surfactant molecules dispersed in a liquid colloid, forming a hydrophobic core and a hydrophilic shell.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Proteoliposomes**
+- **Description:** Liposomes that incorporate proteins within their structure, used for various biomedical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanoluc**
+- **Description:** A luciferase enzyme used in bioluminescence imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Magnetite Nanoparticles**
+- **Description:** Iron oxide nanoparticles with magnetic properties, used in medical imaging and drug delivery.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**2-nonanone**
+- **Description:** A ketone with the chemical formula C9H18O, used as a flavoring agent and in organic synthesis.
+- **Synonyms:** Methyl heptyl ketone
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanotubes, Carbon**
+- **Description:** Cylindrical carbon structures with novel properties, used in electronics, optics, and materials science.
+- **Synonyms:** Carbon Nanotubes
+- **Acronyms:** CNTs
+- **Descriptor:** Small molecule
+
+**1-nonanol**
+- **Description:** A fatty alcohol with the chemical formula C9H20O, used in organic synthesis.
+- **Synonyms:** Nonyl alcohol
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanocapsules**
+- **Description:** Nanoscale capsules used for drug delivery, often with a polymer shell.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanogels**
+- **Description:** Hydrogel particles in the nanometer range, used for drug delivery and tissue engineering.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Polyethylene glycol polyethyleneimine nanogel**
+- **Description:** A type of nanogel used for drug delivery, composed of polyethylene glycol and polyethyleneimine.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Casein phosphopeptide-amorphous calcium phosphate nanocomplex**
+- **Description:** A nanocomplex used in dental care to remineralize teeth.
+- **Synonyms:** CPP-ACP
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanodiamonds**
+- **Description:** Nanometer-sized diamonds used in biomedical and industrial applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Lipid Nanoparticles**
+- **Description:** Nanoparticles composed of lipids, used for drug delivery.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Pregnanolone**
+- **Description:** A neuroactive steroid involved in modulating GABA receptors.
+- **Synonyms:** Allopregnanolone
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NVX-CoV2373 adjuvated lipid nanoparticle**
+- **Description:** A lipid nanoparticle used in the NVX-CoV2373 COVID-19 vaccine.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanos3 protein, zebrafish**
+- **Description:** A protein involved in germ cell development in zebrafish.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanog protein, mouse**
+- **Description:** A protein involved in the regulation of pluripotency in mouse stem cells.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Tunneling Nanotubes**
+- **Description:** Tubular structures that connect cells, allowing for the transfer of materials and signals.
+- **Synonyms:** None
+- **Acronyms:** TNTs
+- **Descriptor:** Small molecule
+
+**Nanoconjugates**
+- **Description:** Nanoparticles conjugated with biomolecules for targeted drug delivery and imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NanoOrange**
+- **Description:** A fluorescent dye used for protein quantification.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nano-PSO**
+- **Description:** A specific type of nanoparticle.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanos1 protein, mouse**
+- **Description:** A protein involved in germ cell development in mice.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NANOS3 protein, human**
+- **Description:** A protein involved in germ cell development in humans.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nano-lantern protein**
+- **Description:** A bioluminescent protein used in live cell imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanotubes, Peptide**
+- **Description:** Peptide-based cylindrical nanostructures used in biomedical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nb80 nanobody**
+- **Description:** A specific nanobody used in research and therapeutic applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanoparticle Drug Delivery System**
+- **Description:** Systems that use nanoparticles to deliver drugs to specific sites in the body.
+- **Synonyms:** None
+- **Acronyms:** NDDS
+- **Descriptor:** Small molecule
+
+**Nanos2 protein, mouse**
+- **Description:** A protein involved in germ cell development in mice.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Technetium Tc 99m nanocolloid**
+- **Description:** A radiopharmaceutical used for diagnostic imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanos3 protein, mouse**
+- **Description:** A protein involved in germ cell development in mice.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NANOS1 protein, human**
+- **Description:** A protein involved in germ cell development in humans.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Perfluoro-n-nonanoic acid**
+- **Description:** A fluorinated carboxylic acid used in various industrial applications.
+- **Synonyms:** PFNA
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**17-hydroxypregnanolone**
+- **Description:** A steroid metabolite.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Poly(3-hydroxyvalerate)-(3-hydroxyheptanoate)-(3-hydroxynonanoate)-(3-hydroxyundecanoate) copolymer**
+- **Description:** A biodegradable polymer used in various applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Poly(3-hydroxynonanoate)**
+- **Description:** A biodegradable polymer used in various applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Hexadecyl isononanoate**
+- **Description:** A specific ester used in cosmetic formulations.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nonanoyl amido caproylacid oxybenzenesulfonate**
+- **Description:** A specific surfactant.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Poly(2-hydroxyethyl methacrylate)-nanocrystalline hydroxyapatite**
+
+
+- **Description:** A composite material used in biomedical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**6-(N-nonanoyl-L-valylamino)-propyltrimethylammonium bromide**
+- **Description:** A specific surfactant.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Cholesteryl nonanoate**
+- **Description:** A specific cholesterol derivative.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Liposome-encapsulated hemoglobin**
+- **Description:** A type of hemoglobin encapsulated in liposomes for medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NB-201 nanoemulsion**
+- **Description:** A specific type of nanoemulsion.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NB-402 nanoemulsion**
+- **Description:** A specific type of nanoemulsion.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nano-Bond primer dual-cure adhesive**
+- **Description:** A dual-cure adhesive used in dental applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ketac Nano**
+- **Description:** A specific type of dental restorative material.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanog protein, zebrafish**
+- **Description:** A protein involved in the regulation of pluripotency in zebrafish.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Epiallopregnanolone sulfate**
+- **Description:** A specific sulfate ester of a neuroactive steroid.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**CONAN-1 nanobody**
+- **Description:** A specific type of nanobody used in research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**1-hexylthio-2-nonanoylamino-1,2-dideoxy-sn-glycero-3-phosphocholine**
+- **Description:** A specific phospholipid derivative.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9-(((2-iodo-4-((trifluoromethyl)-3H-diazirin-3-yl)benzyl)oxy)carbonyl)nonanoic acid**
+- **Description:** A specific chemical compound used in research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9-(((2-tributylstannyl-4-(trifluoromethyl-3H-diaziryn-3-yl)benzyl)oxy)carbonyl)nonanoic acid**
+- **Description:** A specific chemical compound used in research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nonanoyl-coenzyme A**
+- **Description:** A specific acyl-coenzyme A derivative.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**1,2-dioleoyl-3-(9-(3-perylenoyl)nonanoyl)glycerol**
+- **Description:** A specific lipid.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**4,8-dioxa-3H-perfluorononanoic acid**
+- **Description:** A fluorinated carboxylic acid used in various industrial applications.
+- **Synonyms:** PFNA
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NanoRNase, Bacteroides fragilis**
+- **Description:** An enzyme with RNase activity from Bacteroides fragilis.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanoseal**
+- **Description:** A specific type of nanotechnology-based sealant.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**1-palmitoyl-2-(9-(2-anthryl)nonanoyl)glycero-3-phosphocholine**
+- **Description:** A specific phospholipid.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**BCTP 401 nanoemulsion**
+- **Description:** A specific type of nanoemulsion.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**BCTP nanoemulsion**
+- **Description:** A specific type of nanoemulsion.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NanoBone**
+- **Description:** A nanotechnology-based bone graft material.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**5-acetamido-2,6-anhydro-2,3-dehydro-3,5-dideoxy-glycerogalactononanoic acid**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9-(4-azidophenoxy)nonanoic acid**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**6-azipregnanolone**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Omega-(diazirinophenoxy)nonanoic acid**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Spicatocadinanolide A**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**4 O-daunosaminyl-2,4,5,12-tetrahydroxy-2-nonanoyl-1,2,3,4-tetrahydro-6,11-naphthacenedione**
+- **Description:** A specific anthracycline derivative.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Coniferyl 8-methylnonanoate**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**3-methylene-2-norbornanone**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Benanomicinone**
+- **Description:** A specific antibiotic compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Valeriananoid A**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Valeriananoid B**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Valeriananoid C**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nano-1 peptide**
+- **Description:** A specific peptide used in biomedical research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ethyl nonanoate**
+- **Description:** An ester with the chemical formula C11H22O2, used in flavorings and fragrances.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**2-hydroxy-3-pinanone ketimine**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Pinanol**
+- **Description:** A specific terpene alcohol.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Hainanolidol**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9-fluoro-1-nonanol**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**6-formyl-isoophiopogonanone A**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**1H,1H,9H- perfluorononanol**
+- **Description:** A specific fluorinated alcohol.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor
+
+:** Small molecule
+
+**Ammonium 4,8-dioxa-3H-perfluorononanoate**
+- **Description:** A specific ammonium salt.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**8-formylophiopogonanone B**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**N-(3-(N-hydroxycarboxamido)-2-(2-methylpropyl)-propananoyl)-O-methyl-tyrosine-N-methylamide**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**ENA-HRi nano-hybrid composite**
+- **Description:** A specific type of composite material.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9-phenylnonanohydroxamic acid**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanolobatol A**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ananorm**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Squalenoyl-gemcitabine-edelfosine nanoassemblies**
+- **Description:** Specific nanoassemblies used in biomedical research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ophiopogonanone H**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ilexhainanoside D**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Mallonanoside A**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Mallonanoside B**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**N-pentyl 2-(3,5-dihydroxy-2-(1-nonanoyl)phenyl)acetate**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanos2 protein, rat**
+- **Description:** A protein involved in germ cell development in rats.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**2-hydroxy-5-nonanoylbenzamide**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Technetium Tc 99m polyphase liposome oleatis**
+- **Description:** A specific radiopharmaceutical used for diagnostic imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**6-aldehydo-7-methoxyiso-ophiopogonanone B**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NAKTIIVQL nanopeptide**
+- **Description:** A specific peptide used in research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**8-O-4' neolignan glucoside debilignanoside**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Chandonanol**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ethyl 9-(2',5'-dihydroxyphenyl)nonanoate**
+- **Description:** A specific ester used in organic synthesis.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Qinanone G**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ophiopogonanone G**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NanoFUSE DBM**
+- **Description:** A specific demineralized bone matrix used in medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9-((((2-(125I)iodo-4-((trifluoromethyl)-3H-diazirin-3-yl)benzyl)oxy)carbonyl)nonanoyl)-GM1 ganglioside**
+- **Description:** A specific radiolabeled compound used in research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**1-isonicotinyl-2-nonanoyl hydrazine**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9,19-cycloart-7beta, 24R, 25-triol-1-en-3-one 25-O-beta-D-glucopynanoside**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanoemulsion-Rosmarinus officinalis essential oil**
+- **Description:** A nanoemulsion containing rosemary essential oil used in various applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Aerogel**  
+- **Description:** A silicon-based foam composed mostly of air. Often called “frozen smoke” or “blue smoke”, aerogels have extremely low thermal conductivity, which gives them extraordinary insulating properties. They are the lowest-density solids known on earth.  
+- **Synonyms:** Frozen smoke, Blue smoke  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
+
+---
+
+**Aerosol**  
+- **Description:** A suspension of fine particles (0.01-10 microns) of a solid or liquid in a gas.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanoparticle
+
+---
+
+**Alumina**  
+- **Description:** A ceramic material made of aluminum oxide. Alumina is often used as a substrate, or underlying layer, for experiments. Alumina can be mixed with various amounts of titania (titanium dioxide) to change its properties as a substrate.  
+- **Synonyms:** Aluminum oxide  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Aluminum**  
+- **Description:** A silvery-white, metallic element with good conductive and thermal properties.  
+- **Synonyms:** Aluminium (British English)  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Atomic force microscope (AFM)**  
+- **Description:** A scanning probe microscopy instrument capable of revealing the structure of samples. The AFM uses a sharp metal tip positioned over a conducting or non-conducting substrate and the surface topography is mapped out by measuring the mechanical force exerted on the tip.  
+- **Synonyms:** None  
+- **Acronyms:** AFM  
+- **Antonyms:** None  
+- **Descriptor:** Nanoinstrument
+
+---
+
+**Atomic layer deposition (ALD)**  
+- **Description:** A technique used to deposit thin films one atomic layer at a time using self-limiting gas phase reactions.  
+- **Synonyms:** None  
+- **Acronyms:** ALD  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**Beam Pen Lithography (BPL)**  
+- **Description:** A cantilever-free scanning probe technique based on polymer pen lithography, where patterning is accomplished by passing light through small apertures at the tips of pens in a two-dimensional tip array.  
+- **Synonyms:** None  
+- **Acronyms:** BPL  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**Biomimetics**  
+- **Description:** The study of the structure and function of biological substances to develop man-made systems that mimic natural ones; imitating, copying, or learning from biological systems to create new materials and technologies.  
+- **Synonyms:** Biomimicry  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Biopolymer**  
+- **Description:** A polymer found in nature. DNA and RNA are examples of naturally occurring biopolymers. See also polymer.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Synthetic polymer  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Biosensor**  
+- **Description:** A sensor used to detect a biological substance (for example: bacteria, blood gases, or hormones). Biosensors often make use of sensors that are themselves made of biological materials or of materials that are derived from or mimic biological materials.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanosensor
+
+---
+
+**Biosynthesis**  
+- **Description:** The process by which living organisms produce chemical compounds.  
+- **Synonyms:** Biological synthesis  
+- **Acronyms:** None  
+- **Antonyms:** Chemical synthesis  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Block copolymers**  
+- **Description:** Self-assembled material composed of long sequences of “blocks” of the same monomer unit, covalently bound to sequences of unlike type.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Homopolymer  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Bottom-up assembly**  
+- **Description:** A methodology by which larger structures are made by assembling many smaller ones (e.g., when nanoparticle building blocks are brought together to create larger assemblies).  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Top-down assembly  
+- **Descriptor:** Nanofabrication
+
+---
+
+**Brownian Motion**  
+- **Description:** The movement of small objects in solution owing to thermal fluctuations.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanophysics
+
+---
+
+**Buckyball**  
+- **Description:** See fullerene.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
+
+---
+
+**Carbon**  
+- **Description:** A nonmetallic element found in all living things. Carbon is part of all organic compounds and, in combined form, of many inorganic substances. Diamonds, graphite, and fullerenes are pure forms of carbon.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Carbon nanotubes**  
+- **Description:** Long, thin cylinders of carbon, discovered in 1991 by S. Iijima. These large macromolecules are unique for their size, shape, and remarkable physical properties. They can be thought of as a sheet of graphite (a hexagonal lattice of carbon) rolled into a cylinder. The physical properties are still being discovered. Nanotubes have a very broad range of electronic, thermal, and structural properties that change depending on the different kinds of nanotube (defined by its diameter, length, and chirality, or twist). To make things more interesting, besides having a single cylindrical wall (Single Walled Nanotubes or SWNTs), nanotubes can have multiple walls (MWNTs)–cylinders inside the other cylinders. Sometimes referred to simply as nanotubes.  
+- **Synonyms:** Nanorods  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
+
+---
+
+**Catalyst**  
+- **Description:** A compound that is capable of reducing the activation energy of reactions to speed up the kinetics of a reaction.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Inhibitor  
+- **Descriptor:** Nanocatalysis
+
+---
+
+**Cell**  
+- **Description:** A small, usually microscopic, membrane-bound structure that is the fundamental unit of all living things. Organisms can be made up of one cell (unicellular; bacteria, for example) or many cells (multicellular; human beings, for example, which are made up of an estimated 100,000 billion cells.)  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Cell adhesion**  
+- **Description:** The bonding of cells to surfaces or to other cells. Protein molecules at the surface of cells are generally the glue involved in cell adhesion.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Cell recognition**  
+- **Description:** The process by which a cell in a multicellular organism interprets its surroundings.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Characterization**  
+- **Description:** Analysis of critical features of an object or concept.  
+- **Synonyms:** Analysis  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
+
+---
+
+**Chemical vapor deposition (CVD)**  
+- **Description:** A technique used to deposit thin layers of coatings on a substrate. In CVD, chemicals are vaporized and then applied to the substrate using an inert gas such as nitrogen as a carrier. CVD is used in the production of microchips, integrated circuits, sensors, and protective coatings.  
+- **Synonyms:** None  
+- **Acronyms:** CVD  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**Chemical vapor transport**  
+- **Description:** A technique similar to CVD used to grow crystal structures.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**Chemisorption**  
+- **Description:** The process by which a liquid or gas is chemically bonded to the surface of a solid.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Physisorption  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Colloids**  
+- **Description:** Very fine solid particles that will not settle out of a solution or medium. Smoke is an example of a colloid, being solid particles suspended in a gas. Colloids are the intermediate stage between a truly dissolved particle and a suspended solid, which will settle out of solution.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+-
+
+ **Descriptor:** Nanomaterial
+
+---
+
+**Composite**  
+- **Description:** A material made from two or more components that has properties different from the constituent materials. Composite materials have two phases: matrix (continuous) phase, and dispersed phase (particulates, fibers). For example, steel-reinforced cement is a composite material. The concrete is the matrix phase and the steel rods are the dispersed phase. The composite material is much stronger than either of the phases separately.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocomposite
+
+---
+
+**Computational chemistry**  
+- **Description:** A branch of theoretical chemistry with the goal of creating computer programs to calculate the properties of molecules (such as total energy, dipole moment, and vibrational frequencies) and to apply these programs to concrete chemical objects.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanoanalysis
+
+---
+
+**Copolymerization**  
+- **Description:** The process of using more than one type of monomer in the production of a polymer, resulting in a product with properties different from either monomer.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Homopolymerization  
+- **Descriptor:** Nanochemistry
+
+---
+
+**CRISPR**  
+- **Description:** A technology in molecular biology that utilizes the Cas9 enzyme’s affinity to short palindromic sequences of DNA along with a guiding RNA sequence to target and edit genes within organisms.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Crystallography**  
+- **Description:** The process of growing crystals.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
+
+---
+
+**Dendrimer**  
+- **Description:** A polymer with multiple branches. Dendrimers are synthetic 3-D macromolecular structures that interact with cells, enabling scientists to probe, diagnose, treat, or manipulate cells on the nanoscale. From the Greek word dendra, meaning tree.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
+
+---
+
+**Dip-pen nanolithography (DPN)**  
+- **Description:** A method for nanoscale patterning of surfaces by the transfer of a material from the tip of an atomic force microscope onto the surface. Developed by Professor Chad A. Mirkin, the DPN allows researchers to precisely lay down or “write” chemicals, metals, biological macromolecules, and other molecular “inks” with nanometer dimensions and precision on a surface.  
+- **Synonyms:** None  
+- **Acronyms:** DPN  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**DNA (deoxyribonucleic acid)**  
+- **Description:** The molecule that encodes genetic information, found in the cell’s nucleus.  
+- **Synonyms:** None  
+- **Acronyms:** DNA  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**DNA bricks**  
+- **Description:** A Lego-like DNA block that is used in DNA technology to build 2D and 3D nanostructures.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**DNA cleavage**  
+- **Description:** The cutting or breaking of a DNA strand.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**DNA Dendron**  
+- **Description:** A single stranded DNA molecule that branches into several DNA strands, mimicking the high density of DNA on an SNA surface.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**DNA origami**  
+- **Description:** A technique in DNA nanotechnology that uses the specificity of DNA interactions to fold DNA scaffolds into complex structures in a facile manner.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**DNA recognition**  
+- **Description:** The ability of one DNA molecule to “recognize” and attach to another molecule that has a complementary shape.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**DNA replication**  
+- **Description:** The process of making copies of DNA strands prior to cell division using existing DNA as a template for the newly created strands.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**DNA structures**  
+- **Description:** DNA frameworks occurring in nature: i.e., double helix, cruciforms, left-handed DNA, multistranded structures. Also, microarrays of small dots of DNA on surfaces.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Doping**  
+- **Description:** In electronics, the addition of impurities to a semiconductor to achieve a desired characteristic, often altering its conductivity dramatically. Also known as semiconductor doping.  
+- **Synonyms:** Semiconductor doping  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Drug delivery**  
+- **Description:** The use of physical, chemical, and biological components to deliver controlled amounts of a therapeutic agent.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomedicine
+
+---
+
+**Dynamic Light Scattering (DLS)**  
+- **Description:** A characterization technique used to determine the size of nanoscale materials in a solution by analyzing the scattering intensity of a laser over time.  
+- **Synonyms:** None  
+- **Acronyms:** DLS  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
+
+---
+
+**Electrochemical methods**  
+- **Description:** Experimental methods used to study the physical and chemical phenomena associated with electron transfer at the interface of an electrode and a solution. Electrochemical methods are used to obtain analytical or fundamental information regarding electroactive species in solution. Four main types of electrochemical methods include potentiometry, voltammetry, coulometry, and conductimetry.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Electrochemical properties**  
+- **Description:** The characteristics of materials that occur when a) an electric current is passed through a material and produces chemical changes and b) when a chemical reaction is used to produce an electric current, as in a battery.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Electroluminescence (EL)**  
+- **Description:** The light produced by some materials — mainly semiconductors — when exposed to an electric field. In this process, the electric field excites electrons in the material, which then emit the excess energy in the form of photons. Light-emitting diodes (LEDs) are the most well known example of EL.  
+- **Synonyms:** None  
+- **Acronyms:** EL  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Electron diffraction**  
+- **Description:** A surface science technique used to examine solids by firing a beam of electrons at a sample and observing the electron deflection from the sample’s atomic nuclei.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
+
+---
+
+**Electron equivalents (EEs)**  
+- **Description:** A class of programmable atom equivalent that is much smaller than traditional PAEs. The small size allows these materials to diffuse throughout the crystalline assemblies, much like classical electrons in metal solids.  
+- **Synonyms:** None  
+- **Acronyms:** EEs  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Electron microscopy**  
+- **Description:** The visual examination of very small structures with a device that forms greatly magnified images of objects by using electrons rather than light to create an image. An electron microscope focuses a beam of electrons at an object and detects the actions of electrons as they scatter off the surface to form an image.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
+
+---
+
+**Electron transfer**  
+- **Description:** The passage of an electron from one constituent of a system to another, as from one molecule or ion to another. Applications include photography, xerography, and dye-sensitized injection solar cells.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Electron transport**  
+- **Description:** The manipulation of individual electrons. Nanolithography techniques allow single electrons to be transported at very low temperatures in specially designed circuits.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Electron
+
+ tunneling**  
+- **Description:** The passage of electrons through a barrier that, according to the principles of classical mechanics, cannot be breached. An example of electron tunneling is the passage of an electron through a thin insulating barrier between two superconductors. Electron tunneling is a pure quantum mechanical effect that cannot be explained by a classical theory.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanophysics
+
+---
+
+**Electro-optics**  
+- **Description:** The study of the influence of an electric field on the optical properties of matter — especially in crystalline form — such as transmission, emission, and absorption of light. Also known as optoelectronics.  
+- **Synonyms:** Optoelectronics  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Electrophoresis**  
+- **Description:** A method of separating large molecules, such as DNA fragments or proteins, from a mixture of similar molecules by passing an electric current through a medium containing the molecules. Depending on its electrical charge and size, each kind of molecule travels through the medium at a different rate, allowing separation.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Encapsulation**  
+- **Description:** The condition of being enclosed or the process of enclosing.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Entropy**  
+- **Description:** From the second law of thermodynamics, the measure of disorder in a system.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanophysics
+
+---
+
+**Enzyme**  
+- **Description:** Proteins that function as catalysts to speed up biological reactions.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Epitaxy**  
+- **Description:** The growth of a crystal layer of one mineral on the crystal base of another mineral in such a manner that the crystalline orientation of the layer mimics that of the substrate.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Excited states**  
+- **Description:** In quantum mechanics, all levels of energy above the lowest or ground state (also known as equilibrium). Excited states are ranked in order of increasing energy; that is, the second excited state has higher energy than the first.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Ground state  
+- **Descriptor:** Nanophysics
+
+---
+
+**Ferroelectrics**  
+- **Description:** Crystalline substances that have a permanent spontaneous electric polarization (electric dipole moment per cubic centimeter) that can be reversed by an electric field.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Ferrofluid**  
+- **Description:** A fluid in which fine particles of iron, magnetite or cobalt are suspended, typically in an oil. A ferrofluid is superparamagnetic and can create liquid seals held in position by magnetic fields. One application of ferrofluids is to keep dust off of the drive shafts of magnetic disk drives. Ferrofluids were invented by NASA as a way to control the flow of liquid fuels in space.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Ferromagnetic materials**  
+- **Description:** Substances, including a number of crystalline materials, that are characterized by a possible permanent magnetization.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Ferromagnetism**  
+- **Description:** A phenomenon by which a material can exhibit spontaneous magnetization. One of the strongest forms of magnetism, ferromagnetism is responsible for most of the magnetic behavior encountered in everyday life and is the basis for all permanent magnets.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Paramagnetism, Diamagnetism  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Field effect**  
+- **Description:** The local change from the normal value produced by an electric field in the charge-carrier concentration of a semiconductor.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Field emission**  
+- **Description:** The emission of electrons from the surface of a metallic conductor into a vacuum (or into an insulator) under influence of a strong electric field. In field emission, electrons penetrate through the potential surface barrier by virtue of the quantum-mechanical tunnel effect. Also known as cold emission.  
+- **Synonyms:** Cold emission  
+- **Acronyms:** None  
+- **Antonyms:** Thermionic emission  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Fluorescence**  
+- **Description:** The process in which molecules or matter absorb high energy photons and then emit lower energy photons. The difference in energy causes molecular vibrations.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanophotonics
+
+---
+
+**Fluorescence spectroscopy**  
+- **Description:** A technique to measure the interaction of radiant energy with matter by passing emitted fluorescent light through a monochromator to record the fluorescence emission spectrum.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
+
+---
+
+**Fluorescent probe**  
+- **Description:** A stain used for tagging and labeling biological cells to detect structures, molecules, or proteins within the cell. Also single-stranded pieces of DNA, with enzymatically incorporated fluorescent tags, affixed in a microscopic array (DNA microarray).  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Forced intercalation (FIT) aptamer**  
+- **Description:** An oligonucleotide which contains a dye that, upon binding to a target molecule, generates an enhanced and detectable fluorescence readout.  
+- **Synonyms:** None  
+- **Acronyms:** FIT  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Fuel cell**  
+- **Description:** An electrical cell that converts the intrinsic chemical free energy of a fuel into direct-current electrical energy in a continuous catalytic process. Fuel cells extract the chemical energy bound in fuel and, in combination with air as an oxidant, transform it into electricity. Researchers are hoping to develop fuel cells that could take the place of combustion engines, thereby reducing the world dependence on fossil fuels.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Fullerene**  
+- **Description:** A molecular form of pure carbon that takes the form of a hollow cage-like structure with pentagonal and hexagonal faces. The most abundant form of fullerenes is C60 (carbon-60), a naturally occurring form of carbon with 60 carbon atoms arranged in a spherical structure that allows each of the molecule’s 60 atomic corners to bond with other molecules. Larger fullerenes may contain from 70 to 500 carbon atoms. Named for R. Buckminster Fuller for his writing on geodesic domes; also referred to as “buckyballs.”  
+- **Synonyms:** Buckyballs  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
+
+---
+
+**G-quadruplex**  
+- **Description:** A four-guanine tetrad type of DNA secondary structure that forms with sequences rich in guanine.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Gas-phase reactions**  
+- **Description:** A class of chemical reactions that occur in a single gaseous phase based on the physical state of the substances present. Examples include the combination of common household gas and oxygen to produce a flame.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Liquid-phase reactions, Solid-phase reactions  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Gel electrophoresis**  
+- **Description:** A molecular biology technique used to separate biomolecules loaded into a gel. Utilizes electric current to separate biomolecules based on charge, size, and structural differences.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
+
+---
+
+**Gene expression**  
+- **Description:** The transcription, translation, and phenotypic manifestation of a gene.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Gene sequencing**  
+- **Description:** Technology used to interpret the sequence of the nucleotides (adenine, cytosine, guanine, and thymine) in a DNA sample from bands on an X-ray film image. Scientists use a combination of lasers, high-precision optics, and computer software to determine the sequence of
+
+ fluorescently tagged DNA molecules.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Gene technology**  
+- **Description:** Techniques that allow experimenters to manipulate specific genes within an organism and determine the effect this has on the functioning of the organism.  
+- **Synonyms:** Genetic engineering  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Genomics**  
+- **Description:** The study of the genetic content of organisms.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Proteomics  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Graphene**  
+- **Description:** An allotrope of carbon where a single sheet of carbons can be formed in a honeycomb-like lattice nanostructure.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
+
+---
+
+**Green chemistry**  
+- **Description:** The use of chemical products and processes that reduce or eliminate substances hazardous to human health or the environment, creating no waste or generating only benign waste.  
+- **Synonyms:** Sustainable chemistry  
+- **Acronyms:** None  
+- **Antonyms:** Conventional chemistry  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Heterogeneous catalysis**  
+- **Description:** A chemical process in which the catalyst and the reactant are present in separate phases. Usually the catalyst is a solid, the reactants and products are in gaseous or liquid phases, and the catalytic reaction occurs on the surface of the solid.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Homogeneous catalysis  
+- **Descriptor:** Nanocatalysis
+
+---
+
+**Hierarchical assembly**  
+- **Description:** A controlled means of assembly where individual components have varying levels of assembly affinity to allow for the stepwise growth of a structure. This allows for the formation of complex materials and systems using a bottom-up approach.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**High-area rapid printing (HARP)**  
+- **Description:** A fast and high-throughput form of 3D printing that employs a mobile liquid interface to manufacture large and mechanically robust parts. UV light cures a liquid resin into hardened plastic.  
+- **Synonyms:** None  
+- **Acronyms:** HARP  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**High Throughput Screening (HTS)**  
+- **Description:** An assortment of technologies used to identify small molecules. HTS is often used in drug development to screen potential sources for novel molecules. It is capable of processing a wide variety of input samples and track data for each.  
+- **Synonyms:** None  
+- **Acronyms:** HTS  
+- **Antonyms:** None  
+- **Descriptor:** Nanoanalysis
+
+---
+
+**Homogeneous catalysis**  
+- **Description:** A process in which a catalyst is in the same phase — usually a gas or liquid — as the reactant. Catalysis of the transformation of organic molecules by acids or bases is one of the most widespread types of homogeneous catalysis.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Heterogeneous catalysis  
+- **Descriptor:** Nanocatalysis
+
+---
+
+**Hydrogel**  
+- **Description:** A network of polymers that absorb water to produce well-defined structures.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Hydrogen bonding**  
+- **Description:** The interaction of a hydrogen atom with another atom, influencing the physical properties and three-dimensional structure of a chemical substance. Hydrogen bonding generally occurs between atoms of hydrogen and nitrogen, oxygen, or fluorine. An important example of a hydrogen bonding is the formation of the DNA double helix.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Hydrophilic effect**  
+- **Description:** Having an affinity for, attracting, adsorbing, or absorbing water. Hydrophilic effect occurs when a liquid comes in contact with another phase — typically a solid substrate, if it attracts the liquid molecules — causing the liquid to attain a relatively large contact area with the substrate.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Hydrophobic effect  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Hydrophobic effect**  
+- **Description:** Lacking an affinity for, repelling, or failing to adsorb or absorb water. Hydrophobic effect occurs when a liquid comes in contact with another phase — typically a solid substrate, if it exerts a repulsive force onto the liquid — causing the liquid to retract from the surface, with relatively little contact area between liquid and substrate.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Hydrophilic effect  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Immunotherapy**  
+- **Description:** The use of materials that stimulate an immune response to treat disease.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomedicine
+
+---
+
+**Infrared (IR) spectroscopy**  
+- **Description:** A technique in which infrared light is passed through matter and some of the light is absorbed by inciting molecular vibration. The difference between the incident and the emitted radiation reveals structural and functional data about the molecule.  
+- **Synonyms:** None  
+- **Acronyms:** IR  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
+
+---
+
+**Ion channel**  
+- **Description:** A protein-coated pore in a cell membrane that selectively regulates the diffusion of ions into and out of the cell, allowing only certain ion species to pass through the membrane.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Ion conductors**  
+- **Description:** The discharge of charged particles in a fluid electrolyte to conduct an electrical current.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Junctions**  
+- **Description:** In electronics, the interface between two different types of materials within diodes, transistors, and other semiconductor devices.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Kinetics**  
+- **Description:** The study of the rates of chemical reactions.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Kirkendall effect**  
+- **Description:** The movement of the interface between two metals caused by a variation in the diffusion rates of the metals.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
+
+---
+
+**lab-on-a-chip devices**  
+- **Description:** Miniaturized analytical systems that integrate a chemical laboratory on a chip. Lab-on-a-chip technology enables portable devices for point-of-care (or on-site) medical diagnostics and environmental monitoring.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Langmuir-Blodgett (LB) films**  
+- **Description:** Ultrathin films (monolayers and isolated molecular layers) created by nanofabrication. An LB-film can consist of a single layer or many, up to a depth of several visible-light wavelengths. The term Langmuir-Blodgett comes from the names of a research scientist and his assistant, Irving Langmuir and Katherine Blodgett, who discovered unique properties of thin films in the early 1900s. Such films exhibit various electrochemical and photochemical properties. This has led some researchers to pursue LB-films as a possible structure for integrated circuits (ICs). Ultimately, it might be possible to construct an LB-film memory chip in which each data bit is represented by a single molecule. Complex switching networks might be fabricated onto multilayer LB-films chips.  
+- **Synonyms:** None  
+- **Acronyms:** LB  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**Lattice**  
+- **Description:** In crystallography, a regular periodic arrangement of atoms in three-dimensional space.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
+
+---
+
+**LED (light-emitting diode)**  
+- **Description:** A semiconductor device that converts electrical energy into electromagnetic radiation. The LED emits light of a particular frequency (hence a particular color) depending on the physical characteristics of the semiconductor used.  
+- **Synonyms:** None  
+- **Acronyms:** LED  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Liposome**  
+- **Description:** A closed, spherical bilayer of amphiphilic molecules commonly used as delivery vessels in nanomedicine.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomedicine
+
+---
+
+**Liquid phase
+
+ separation**  
+- **Description:** A method of extracting one liquid from another, generally through the use of solvents.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
+
+---
+
+**Lithography**  
+- **Description:** The process of imprinting patterns on materials. Derived from Greek, the term lithography means literally “writing on stone.” Nanolithography refers to etching, writing, or printing at the microscopic level, where the dimensions of characters are on the order of nanometers (units of 10 -9 meter, or millionths of a millimeter).  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**Luminescence**  
+- **Description:** Cool light emitted by sources as a result of the movement of electrons from more energetic states to less energetic states. There are many types of luminescence. Chemiluminescence is produced by certain chemical reactions. Electroluminescence is produced by electric discharges, which may appear when silk or fur is stroked or when adhesive surfaces are separated. Triboluminescence is produced by rubbing or crushing crystals.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanophotonics
+
+---
+
+**Macromolecule**  
+- **Description:** A very large molecule composed of hundreds or thousands of atoms.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Magnetism**  
+- **Description:** The force of attraction or repulsion between various substances, especially those made of iron and certain other metals. Magnetism is the result of the motion of electrons in the atoms.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanophysics
+
+---
+
+**Mass spectrometer**  
+- **Description:** A device used to identify the kinds of molecules present in a given substance: the molecules are ionized and passed through an electromagnetic field. The way in which they are deflected is indicative of their mass and identity.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
+
+---
+
+**Materials genome**  
+- **Description:** All possible combinations of elements that can be synthesized and used. Akin to the biological genome, or all of the genetic information of an organism.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Megalibrary**  
+- **Description:** An array of millions to billions of nanomaterials with a gradient of sizes and compositions spatially encoded on a chip that are prepared via high-throughput methods.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
+
+---
+
+**Metal organic framework (MOF)**  
+- **Description:** A class of compounds consisting of metal ions that are coordinated to organic ligands to form porous, crystalline structures with applications in catalysis, water remediation, and gas storage.  
+- **Synonyms:** None  
+- **Acronyms:** MOF  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
+
+---
+
+**Microcontact printing**  
+- **Description:** A technique that uses a silicone stamp to deposit molecules on surfaces in patterns with microscale features.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
+
+---
+
+**Microfluidic device**  
+- **Description:** A device that has one or more channels with at least one dimension less than 1 mm. Common fluids used in microfluidic devices include whole blood samples, bacterial cell suspensions, protein or antibody solutions and various buffers. The small amounts of samples needed and relative inexpensiveness of microfluidic devices make them attractive for biomedical research and creating clinically useful technologies. One of the long term goals in the field of microfluidics is to create integrated, portable clinical diagnostic devices for home and bedside use, thereby eliminating time consuming laboratory analysis procedures.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
+
+**Microfluidics**  
+- **Description:** A multidisciplinary field that studies the behavior of fluids at volumes thousands of times smaller than a drop. Microfluidic components form the basis of “lab-on-a-chip” devices capable of performing several different functions. Microfluidics is critical in the development of gene chip and protein chip technology.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
+
+---
 
+**Micromachining**  
+- **Description:** The use of standard semiconductor technologies along with special processes to fabricate miniature mechanical devices and components on silicon and other materials.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Micromolding  
+- **Descriptor:** Nanofabrication
+
 ---
 
-#### Arterial Blood Gas
-**Description:** A test that measures the levels of oxygen and carbon dioxide in the blood to assess lung function.
-**Synonyms:** None
-**Acronyms:** ABG
+**Micromolding**  
+- **Description:** A method of fabricating microsystems using tiny molds to cast materials. Micromolding serves as an alternative to micromachining.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Micromachining  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Adriamycin®, Bleomycin, Vinblastine, Dacarbazine
-**Description:** A chemotherapy regimen for Hodgkin's lymphoma consisting of Adriamycin® (doxorubicin), bleomycin, vinblastine, and dacarbazine.
-**Synonyms:** None
-**Acronyms:** ABVD
+**MOCVD (Metal-Organic Chemical Vapor Deposition)**  
+- **Description:** A technique for growing thin layers of compound semiconductors in which metal-organic compounds are decomposed near the surface of a heated substrate wafer.  
+- **Synonyms:** None  
+- **Acronyms:** MOCVD  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Adriamycin® (Doxorubicin), Cyclophosphamide
-**Description:** A chemotherapy regimen for breast cancer consisting of Adriamycin® (doxorubicin) and cyclophosphamide.
-**Synonyms:** None
-**Acronyms:** AC
+**Molecular beam epitaxy**  
+- **Description:** Method used to grow layers of materials of atomic-scale thickness on surfaces.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Muscarinic Acetylcholine (Receptor)
-**Description:** A type of receptor that responds to the neurotransmitter acetylcholine.
-**Synonyms:** Muscarinic receptor
-**Acronyms:** AChm
+**Molecular electronics**  
+- **Description:** Electronic components made up of individual molecules; devices comprised of these components on the nanometer length scale.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### AIDS Clinical Trials Group
-**Description:** An organization that conducts clinical trials related to HIV/AIDS treatment.
-**Synonyms:** None
-**Acronyms:** ACTG
+**Molecular imprinting**  
+- **Description:** A process by which functional monomers are allowed to self-assemble around a template molecule and locked into place. The template molecule is then removed, leaving behind a cavity that is complementary in shape and functionality as the template molecule, which will bind molecules identical to the template.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Adrenocorticotrophic Hormone
-**Description:** A hormone produced by the pituitary gland that stimulates the adrenal glands.
-**Synonyms:** Corticotropin
-**Acronyms:** ACTH
+**Molecular Machine**  
+- **Description:** Molecules that can be programmed with controllable movements after an energy input. This advance was awarded the Nobel Prize in Chemistry 2016.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Adenosine Deaminase
-**Description:** An enzyme involved in purine metabolism and important for the immune system.
-**Synonyms:** None
-**Acronyms:** ADA
+**Molecule**  
+- **Description:** A group of atoms that are held together by chemical bonds.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Antidiuretic Hormone
-**Description:** A hormone that helps regulate water balance in the body by controlling the amount of water reabsorbed by the kidneys.
-**Synonyms:** Vasopressin
-**Acronyms:** ADH
+**Monomer**  
+- **Description:** A small molecule that may become chemically bonded to other monomers to form a polymer; from Greek mono “one” and meros “part”.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Polymer  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Atrial Fibrillation
-**Description:** An irregular and often rapid heart rate that can lead to blood clots, stroke, heart failure, and other heart-related complications.
-**Synonyms:** None
-**Acronyms:** AF
+**Nanocharacterization**  
+- **Description:** The understanding of the chemical and physical properties of atomic and nanoscale materials.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### Alpha-fetoprotein
-**Description:** A protein produced by the liver and yolk sac of a developing fetus; used as a tumor marker in adults.
-**Synonyms:** None
-**Acronyms:** AFP
+**Nanocomposites**  
+- **Description:** Materials that result from the intimate mixture of two or more nanophase materials.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocomposite
 
 ---
 
-#### Absolute Granulocyte Count
-**Description:** A measure of the number of granulocytes (a type of white blood cell) in the blood.
-**Synonyms:** None
-**Acronyms:** AGC
+**Nanocrystal**  
+- **Description:** An object with at least one dimension smaller than 100 nanometers that has an ordered, crystalline structure.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
 
 ---
 
-#### Acquired Immune Deficiency Syndrome
-**Description:** A chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV).
-**Synonyms:** None
-**Acronyms:** AIDS
+**Nanocrystalline materials**  
+- **Description:** Solids with small domains of crystallinity within the amorphous phase. Applications include optical electronics and solar cells.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Anal Intraepithelial Neoplasia
-**Description:** A pre-cancerous condition in the anal canal.
-**Synonyms:** None
-**Acronyms:** AIN
+**Nanoelectromechanical Systems (NEMS)**  
+- **Description:** A generic term to describe nanoscale electrical/mechanical devices.  
+- **Synonyms:** None  
+- **Acronyms:** NEMS  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### American Joint Committee on Cancer
-**Description:** An organization that creates guidelines for cancer staging.
-**Synonyms:** None
-**Acronyms:** AJCC
+**Nanofiber**  
+- **Description:** A polymer membrane formed by electrospinning, with filament diameters of 150–200 nanometers. Also called nanomesh, it is used in air and liquid filtration applications.  
+- **Synonyms:** Nanomesh  
+- **Acronyms:** None  
+- **Ant
 
----
-
-#### Anaplastic Lymphoma Kinase
-**Description:** A gene that can fuse with other genes to create an abnormal protein that contributes to cancer growth.
-**Synonyms:** None
-**Acronyms:** ALK
-
----
-
-#### Acute Lymphoblastic Leukemia
-**Description:** A type of cancer of the blood and bone marrow that affects white blood cells.
-**Synonyms:** None
-**Acronyms:** ALL
-
----
-
-#### Acute Myeloid Leukemia
-**Description:** A type of cancer of the blood and bone marrow characterized by the rapid growth of abnormal white blood cells.
-**Synonyms:** None
-**Acronyms:** AML
-
----
-
-#### Absolute Neutrophil Count
-**Description:** A measure of the number of neutrophil granulocytes present in the blood.
-**Synonyms:** None
-**Acronyms:** ANC
-
----
-
-#### Axillary Node Dissection
-**Description:** A surgical procedure to remove lymph nodes from the axilla (underarm) to determine the spread of breast cancer.
-**Synonyms:** None
-**Acronyms:** AND
-
----
-
-#### Area Postrema
-**Description:** A region in the brainstem involved in the vomiting reflex.
-**Synonyms:** None
-**Acronyms:** AP
-
----
-
-#### Adenomatous Polyposis Coli
-**Description:** A gene that helps regulate cell growth; mutations in this gene are associated with colorectal cancer.
-**Synonyms:** None
-**Acronyms:** APC
-
----
-
-#### Acute Promyelocytic Leukemia
-**Description:** A subtype of acute myeloid leukemia characterized by the accumulation of promyelocytes.
-**Synonyms:** None
-**Acronyms:** APL
-
----
-
-#### Adult Respiratory Distress Syndrome
-**Description:** A severe lung condition causing diffuse alveolar damage and respiratory failure.
-**Synonyms:** None
-**Acronyms:** ARDS
-
----
-
-#### Acute Renal Failure
-**Description:** A sudden loss of kidney function.
-**Synonyms:** Acute kidney injury
-**Acronyms:** ARF
-
----
-
-#### Antiretroviral Therapy
-**Description:** Treatment for HIV/AIDS using medications that inhibit the virus's replication.
-**Synonyms:** None
-**Acronyms:** ART
-
----
-
-#### Autologous Stem Cell Transplantation
-**Description:** A procedure in which a patient's own stem cells are collected, stored, and then reinfused after intensive treatment.
-**Synonyms:** None
-**Acronyms:** ASCT
-
----
-
-#### Adult T-cell Leukemia/Lymphoma
-**Description:** A rare type of cancer caused by the human T-cell leukemia virus type 1 (HTLV-1).
-**Synonyms:** None
-**Acronyms:** ATLL
-
----
-
-#### Arsenic Trioxide
-**Description:** A chemotherapy drug used to treat acute promyelocytic leukemia.
-**Synonyms:** None
-**Acronyms:** ATO
-
----
-
-#### All-trans Retinoic Acid
-**Description:** A drug used to treat acute promyelocytic leukemia by inducing the differentiation of promyelocytes.
-**Synonyms:** Tretinoin
-**Acronyms:** ATRA
-
----
-
-#### Arteriovenous; Atrioventricular
-**Description:** Refers to structures related to both arteries and veins, or the atrium and ventricle of the heart.
-**Synonyms:** None
-**Acronyms:** AV
-
----
-
-#### Basal Cell Carcinoma
-**Description:** The most common type of skin cancer, originating from basal cells.
-**Synonyms:** None
-**Acronyms:** BCC
-
----
-
-#### Bacillus Calmette–Guérin
-**Description:** A vaccine primarily used against tuberculosis and also used in bladder cancer treatment.
-**Synonyms:** None
-**Acronyms:** BCG
-
----
-
-#### Barcelona Clinic Liver Cancer
-**Description:** A staging system for liver cancer developed at the Barcelona Clinic.
-**Synonyms:** None
-**Acronyms:** BCLC
-
----
-
-#### B-cell Chronic Lymphocytic Leukemia
-**Description:** A type of leukemia characterized by the accumulation of abnormal B lymphocytes.
-**Synonyms:** None
-**Acronyms:** B-CLL
-
----
-
-#### British Committee for Standards in Haematology
-**Description:** An organization that provides guidelines and standards for hematological practices in the UK.
-**Synonyms:** None
-**Acronyms:** BCSH
-
----
-
-#### Bis in Die (Twice Daily)
-**Description:** A medical prescription notation indicating that a medication should be taken twice a day.
-**Synonyms:** None
-**Acronyms:** bd
-
----
-
-#### Bleomycin, Etoposide, Doxorubicin, Cyclophosphamide, Vincristine, Procarbazine, Prednisolone
-**Description:** A chemotherapy regimen for Hodgkin's lymphoma.
-**Synonyms:** None
-**Acronyms:** BEACOPP
-
----
-
-#### Bleomycin, Etoposide, Cisplatin
-**Description:** A chemotherapy regimen for testicular cancer.
-**Synonyms:** None
-**Acronyms:** BEP
-
----
-
-#### Burkitt’s Lymphoma
-**Description:** A highly aggressive B-cell non-Hodgkin lymphoma.
-**Synonyms:** None
-**Acronyms:** BL
-
----
-
-#### Bone Morphogenetic Protein
-**Description:** A group of growth factors known to play a role in bone formation and repair.
-**Synonyms:** None
-**Acronyms:** BMP
-
----
-
-#### Bone Marrow Transplantation
-**Description:** A procedure to replace damaged or destroyed bone marrow with healthy bone marrow stem cells.
-**Synonyms:** None
-**Acronyms:** BMT
-
----
-
-#### Blood Pressure
-**Description:** The force exerted by circulating blood on the walls of blood vessels.
-**Synonyms:** None
-**Acronyms:** BP
-
----
-
-#### British Society of Gastroenterology
-**Description:** A professional organization focused on the study and treatment of gastrointestinal diseases.
-**Synonyms:** None
-**Acronyms:** BSG
-
----
-
-#### Bilateral Salpingo-oophorectomy
-**Description:** A surgical procedure to remove both fallopian tubes and ovaries.
-**Synonyms:** None
-**Acronyms:** BSO
-
----
-
-#### British Thoracic Society
-**Description:** A professional organization dedicated to respiratory health in the UK.
-**Synonyms:** None
-**Acronyms:** BTS
-
- 
-
----
-
-#### Calcium Ion
-**Description:** An essential ion involved in many bodily functions, including muscle contraction, nerve transmission, and blood clotting.
-**Synonyms:** None
-**Acronyms:** Ca2+
-
----
-
-#### Carbohydrate Antigen 19.9
-**Description:** A tumor marker used primarily in the management of pancreatic cancer.
-**Synonyms:** None
-**Acronyms:** Ca19.9
-
----
-
-#### Cyclophosphamide, Doxorubicin, Vincristine
-**Description:** A chemotherapy regimen used for various cancers, including lymphoma and breast cancer.
-**Synonyms:** None
-**Acronyms:** CAV
-
----
-
-#### 1-(20-Chloroethyl)-3-Cyclohexyl-1-Nitrosurea
-**Description:** A chemotherapy drug used in the treatment of brain tumors and Hodgkin's lymphoma.
-**Synonyms:** Lomustine
-**Acronyms:** CCNU
-
----
-
-#### Carcinoembryonic Antigen
-**Description:** A tumor marker used in the management of certain types of cancer, including colorectal cancer.
-**Synonyms:** None
-**Acronyms:** CEA
-
----
-
-#### Continuous Hyperfractionated Accelerated Radiotherapy
-**Description:** A radiation therapy technique that delivers multiple small doses of radiation per day over a shorter overall period.
-**Synonyms:** None
-**Acronyms:** CHART
-
----
-
-#### Congestive Heart Failure
-**Description:** A condition in which the heart is unable to pump blood effectively, leading to fluid buildup in the lungs and other tissues.
-**Synonyms:** Heart failure
-**Acronyms:** CHF
-
----
-
-#### Complete Hydatidiform Mole
-**Description:** A type of gestational trophoblastic disease that can develop into malignant choriocarcinoma if not treated.
-**Synonyms:** None
-**Acronyms:** CHM
-
----
-
-#### Cyclophosphamide, Doxorubicin, Vincristine, and Prednisolone
-**Description:** A chemotherapy regimen used to treat non-Hodgkin's lymphoma and other cancers.
-**Synonyms:** None
-**Acronyms:** CHOP
-
----
-
-#### Cervical Intraepithelial Neoplasia
-**Description:** A precancerous condition in which abnormal cells grow on the surface of the cervix.
-**Synonyms:** None
-**Acronyms:** CIN
-
----
-
-#### Carcinoma In Situ
-**Description:** A term used to describe cancer that is confined to the place where it started and has not spread to surrounding tissues.
-**Synonyms:** None
-**Acronyms:** CIS
-
----
-
-#### Creatine Kinase
-**Description:** An enzyme found in the heart, brain, and skeletal muscle, often measured to assess muscle damage.
-**Synonyms:** None
-**Acronyms:** CK
-
----
-
-#### Common Leucocyte Antigen
-**Description:** A protein found on the surface of all white blood cells, used as a marker in immunological studies.
-**Synonyms:** CD45
-**Acronyms:** CLA
-
----
-
-#### Chronic Lymphocytic Leukaemia
-**Description:** A type of leukemia characterized by the accumulation of abnormal B lymphocytes.
-**Synonyms:** None
-**Acronyms:** CLL
-
----
-
-#### Cyclophosphamide, Methotrexate, Fluorouracil
-**Description:** A chemotherapy regimen used in the treatment of breast cancer.
-**Synonyms:** None
-**Acronyms:** CMF
-
----
-
-#### Centimetre of Water
-**Description:** A unit of pressure measurement often used in medical contexts to measure blood pressure or respiratory pressure.
-**Synonyms:** None
-**Acronyms:** cmH2O
-
----
-
-#### Chronic Myeloid Leukaemia
-**Description:** A type of cancer that starts in certain blood-forming cells of the bone marrow.
-**Synonyms:** None
-**Acronyms:** CML
-
----
-
-#### Chronic Myelomonocytic Leukaemia
-**Description:** A type of cancer that starts in blood-forming cells of the bone marrow and invades the blood.
-**Synonyms:** None
-**Acronyms:** CMML
-
----
-
-#### Cisplatin, Methotrexate, Vinblastine; Cytomegalovirus
-**Description:** Refers to both a chemotherapy regimen and a virus that can cause infections in immunocompromised patients.
-**Synonyms:** None
-**Acronyms:** CMV
-
----
-
-#### Central Nervous System; Clinical Nurse Specialist
-**Description:** Refers to both the part of the nervous system consisting of the brain and spinal cord, and a specialized nurse role.
-**Synonyms:** None
-**Acronyms:** CNS
-
----
-
-#### Cyclophosphamide and Vincristine
-**Description:** A chemotherapy regimen used for various cancers.
-**Synonyms:** None
-**Acronyms:** CO
-
----
-
-#### Carbon Dioxide
-**Description:** A colorless, odorless gas produced by burning carbon and organic compounds and by respiration.
-**Synonyms:** None
-**Acronyms:** CO2
-
----
-
-#### Chronic Obstructive Pulmonary Disease
-**Description:** A chronic inflammatory lung disease that causes obstructed airflow from the lungs.
-**Synonyms:** None
-**Acronyms:** COPD
-
----
-
-#### Creatine Phosphokinase
-**Description:** An enzyme found in the heart, brain, and skeletal muscle, often measured to assess muscle damage.
-**Synonyms:** None
-**Acronyms:** CPK
-
----
-
-#### Camptothecin
-**Description:** A chemotherapy drug used to treat cancer by inhibiting DNA replication.
-**Synonyms:** None
-**Acronyms:** CPT
-
----
-
-#### Complete Remission
-**Description:** The disappearance of all signs of cancer in response to treatment.
-**Synonyms:** None
-**Acronyms:** CR
-
----
-
-#### Colorectal Liver Metastases
-**Description:** Cancer that has spread from the colon or rectum to the liver.
-**Synonyms:** None
-**Acronyms:** CRLM
-
----
-
-#### C-Reactive Protein
-**Description:** A substance produced by the liver in response to inflammation, measured in blood tests to assess inflammation levels.
-**Synonyms:** None
-**Acronyms:** CRP
-
----
-
-#### Conformal Radiotherapy
-**Description:** A technique that shapes radiation beams to closely approximate the shape of a tumor.
-**Synonyms:** None
-**Acronyms:** CRT
-
----
-
-#### Cerebrospinal Fluid
-**Description:** A clear, colorless body fluid found in the brain and spinal cord.
-**Synonyms:** None
-**Acronyms:** CSF
-
----
-
-#### Craniospinal Irradiation
-**Description:** A radiation therapy technique that treats the entire brain and spinal cord.
-**Synonyms:** None
-**Acronyms:** CSI
-
----
-
-#### Computerized Tomography
-**Description:** A medical imaging technique used to create detailed images of internal body structures.
-**Synonyms:** CT Scan
-**Acronyms:** CT
-
----
-
-#### Circulating Tumour Cell; Common Toxicity Criteria
-**Description:** Refers to both cells that have shed from a primary tumor into the bloodstream and criteria used to measure side effects of treatment.
-**Synonyms:** None
-**Acronyms:** CTC
-
----
-
-#### Clinical Target Volume
-**Description:** The volume that contains the tumor and a margin of tissue that may contain microscopic malignant cells.
-**Synonyms:** None
-**Acronyms:** CTV
-
----
-
-#### Carcinoma of Unknown Primary
-**Description:** A type of cancer whose primary site of origin cannot be identified.
-**Synonyms:** None
-**Acronyms:** CUP
-
----
-
-#### Cerebrovascular Accident
-**Description:** Also known as a stroke, it occurs when blood flow to a part of the brain is interrupted or reduced.
-**Synonyms:** Stroke
-**Acronyms:** CVA
-
----
-
-#### Cyclophosphamide, Vincristine, and Prednisolone; Central Venous Pressure
-**Description:** Refers to both a chemotherapy regimen and the pressure in the central veins.
-**Synonyms:** None
-**Acronyms:** CVP
-
----
-
-#### Chest X-Ray
-**Description:** A radiographic image of the chest used to diagnose conditions affecting the chest, its contents, and nearby structures.
-**Synonyms:** None
-**Acronyms:** CXR
-
----
-
-#### Four-Dimensional
-**Description:** Refers to processes or models that include three spatial dimensions plus the dimension of time.
-**Synonyms:** None
-**Acronyms:** 4D
-
----
-
-#### Dalton
-**Description:** A unit of mass used to express atomic and molecular weights.
-**Synonyms:** Atomic mass unit (amu)
-**Acronyms:** Da
-
----
-
-#### Direct Antiglobulin
-**Description:** A test used to detect antibodies that are stuck to the surface of red blood cells.
-**Synonyms:** Direct Coombs test
-**Acronyms:** DAT
-
----
-
-#### Dilation and Curettage
-**Description:** A surgical procedure involving the dilation of the cervix and scraping of the uterine lining.
-**Synonyms:** None
-**Acronyms:** D & C
-
----
-
-#### Dendritic Cell
-**Description:** A type of immune cell that helps to initiate the body's immune response.
-**Synonyms:** None
-**Acronyms:** DC
-
----
-
-#### Ductal Carcinoma In Situ
-**Description:** A non-invasive breast cancer where abnormal cells are contained within the milk ducts.
-**Synonyms:** None
-**Acronyms:** DCIS
-
----
-
-#### Disease-Free Survival
-**Description:** The length of time after treatment during which no sign of cancer is found.
-**Synonyms:** None
-**Acronyms:** DFS
-
----
-
-#### Cisplatin, Ara-C, Dexamethasone
-**Description:** A chemotherapy regimen used to treat certain types of lymphoma and leukemia.
-**Synonyms:** None
-**Acronyms:** DHAP
-
----
-
-#### Dih
-
-ydrofolate Reductase
-**Description:** An enzyme involved in the folate pathway, which is targeted by some chemotherapy drugs.
-**Synonyms:** None
-**Acronyms:** DHFR
-
----
-
-#### Disseminated Intravascular Coagulation
-**Description:** A condition affecting the blood's ability to clot and stop bleeding.
-**Synonyms:** None
-**Acronyms:** DIC
-
- 
-
----
-
-#### Decilitre
-**Description:** A unit of volume measurement equal to one-tenth of a liter.
-**Synonyms:** None
-**Acronyms:** dL
-
----
-
-#### Diffuse Large B-Cell Non-Hodgkin’s Lymphoma
-**Description:** A type of aggressive non-Hodgkin lymphoma that originates in B-cells.
-**Synonyms:** None
-**Acronyms:** DLBL
-
----
-
-#### Dose-Limiting Toxicity
-**Description:** The side effect of a drug or treatment that prevents an increase in dose or level.
-**Synonyms:** None
-**Acronyms:** DLT
-
----
-
-#### Deoxyribonucleic Acid
-**Description:** The molecule that carries genetic instructions in all living organisms and many viruses.
-**Synonyms:** None
-**Acronyms:** DNA
-
----
-
-#### Dacarbazine
-**Description:** A chemotherapy drug used to treat Hodgkin's lymphoma and metastatic melanoma.
-**Synonyms:** None
-**Acronyms:** DTIC
-
----
-
-#### 2'-Deoxythymidine 5'-Triphosphate
-**Description:** A nucleotide used in the synthesis of DNA.
-**Synonyms:** None
-**Acronyms:** dTTP
-
----
-
-#### 2'-Deoxyuridine 5'-Triphosphate
-**Description:** A nucleotide used in DNA synthesis and repair.
-**Synonyms:** None
-**Acronyms:** dUMP
-
----
-
-#### Deep Vein Thrombosis
-**Description:** A blood clot that forms in a deep vein, usually in the legs.
-**Synonyms:** None
-**Acronyms:** DVT
-
----
-
-#### European Association for the Study of the Liver
-**Description:** An organization focused on promoting liver research and improving the treatment of liver diseases in Europe.
-**Synonyms:** None
-**Acronyms:** EASL
-
----
-
-#### European Group for Blood and Marrow Transplantation
-**Description:** An organization that promotes all aspects of blood and marrow transplantation.
-**Synonyms:** None
-**Acronyms:** EBMT
-
----
-
-#### External Beam Radiotherapy
-**Description:** A method for delivering a beam or several beams of high-energy X-rays to a patient's tumor.
-**Synonyms:** None
-**Acronyms:** EBRT
-
----
-
-#### Endobronchial Ultrasound
-**Description:** A technique used to obtain images and biopsy samples from the lungs and surrounding areas.
-**Synonyms:** None
-**Acronyms:** EBUS
-
----
-
-#### Epstein–Barr Virus
-**Description:** A virus that causes infectious mononucleosis and is associated with certain cancers.
-**Synonyms:** None
-**Acronyms:** EBV
-
----
-
-#### Etoposide Plus Carboplatin
-**Description:** A chemotherapy regimen used for various cancers, including lung cancer.
-**Synonyms:** None
-**Acronyms:** ECarb
-
----
-
-#### Epirubicin, Cisplatin, Fluorouracil
-**Description:** A chemotherapy regimen used to treat gastric and esophageal cancers.
-**Synonyms:** None
-**Acronyms:** ECF
-
----
-
-#### Electrocardiogram
-**Description:** A test that records the electrical activity of the heart.
-**Synonyms:** None
-**Acronyms:** ECG
-
----
-
-#### Eastern Cooperative Oncology Group
-**Description:** An organization that conducts clinical trials in oncology.
-**Synonyms:** None
-**Acronyms:** ECOG
-
----
-
-#### Epirubicin, Cisplatin, Capecitabine
-**Description:** A chemotherapy regimen used to treat gastric and esophageal cancers.
-**Synonyms:** None
-**Acronyms:** ECX
-
----
-
-#### Ethylenediaminetetra-Acetic Acid
-**Description:** A molecule used as a chelating agent and anticoagulant in blood sample collection.
-**Synonyms:** None
-**Acronyms:** EDTA
-
----
-
-#### Event-Free Survival
-**Description:** The length of time after treatment during which a patient remains free of certain complications or events.
-**Synonyms:** None
-**Acronyms:** EFS
-
----
-
-#### Epidermal Growth Factor
-**Description:** A protein that stimulates cell growth and differentiation.
-**Synonyms:** None
-**Acronyms:** EGF
-
----
-
-#### Epidermal Growth Factor Receptor
-**Description:** A protein on the cell surface that binds epidermal growth factor and is involved in signaling pathways regulating cell growth and survival.
-**Synonyms:** None
-**Acronyms:** EGFR
-
----
-
-#### Etoposide, Methotrexate, and Actinomycin D; European Medicines Agency
-**Description:** Refers to both a chemotherapy regimen and a regulatory agency for pharmaceuticals in the European Union.
-**Synonyms:** None
-**Acronyms:** EMA
-
----
-
-#### Electromyography
-**Description:** A diagnostic procedure to assess the health of muscles and the nerve cells that control them.
-**Synonyms:** None
-**Acronyms:** EMG
-
----
-
-#### Ear, Nose, and Throat
-**Description:** A medical specialty dealing with disorders and conditions of the ear, nose, and throat.
-**Synonyms:** Otolaryngology
-**Acronyms:** ENT
-
----
-
-#### European Organisation for Research and Treatment of Cancer
-**Description:** An independent research organization that designs, conducts, and analyzes clinical trials to improve cancer treatment.
-**Synonyms:** None
-**Acronyms:** EORTC
-
----
-
-#### Etoposide Plus Cisplatin
-**Description:** A chemotherapy regimen used for various cancers, including lung cancer.
-**Synonyms:** None
-**Acronyms:** EP
-
----
-
-#### Eicosapentanoic Acid
-**Description:** An omega-3 fatty acid that has various health benefits, including anti-inflammatory properties.
-**Synonyms:** None
-**Acronyms:** EPA
-
----
-
-#### Electronic Portal Imaging Device
-**Description:** A device used in radiation therapy to verify the positioning of the patient and the treatment area.
-**Synonyms:** None
-**Acronyms:** EPID
-
----
-
-#### Erythropoietin
-**Description:** A hormone that stimulates red blood cell production.
-**Synonyms:** EPO
-**Acronyms:** EPO
-
----
-
-#### (O)Estrogen Receptor
-**Description:** A protein that binds estrogen and is involved in the regulation of gene expression and cell growth.
-**Synonyms:** ER
-**Acronyms:** ER
-
----
-
-#### Endoscopic Retrograde Cholangio-Pancreatography
-**Description:** A procedure used to diagnose and treat problems in the liver, gallbladder, bile ducts, and pancreas.
-**Synonyms:** None
-**Acronyms:** ERCP
-
----
-
-#### Erythrocyte Sedimentation Rate
-**Description:** A blood test that can reveal inflammatory activity in the body.
-**Synonyms:** None
-**Acronyms:** ESR
-
----
-
-#### Endoscopic Ultrasound
-**Description:** A procedure that combines endoscopy and ultrasound to obtain images and information about the digestive tract and surrounding tissues and organs.
-**Synonyms:** None
-**Acronyms:** EUS
-
----
-
-#### Folinic Acid
-**Description:** A medication used to reduce the toxic effects of certain chemotherapy drugs and to treat certain types of anemia.
-**Synonyms:** Leucovorin
-**Acronyms:** FA
-
----
-
-#### Familial Atypical Multiple Mole and Melanoma
-**Description:** A genetic condition characterized by an increased risk of developing melanoma and multiple atypical moles.
-**Synonyms:** None
-**Acronyms:** FAMM
-
----
-
-#### Familial Adenomatous Polyposis
-**Description:** An inherited condition that causes cancer of the large intestine (colon) and rectum.
-**Synonyms:** None
-**Acronyms:** FAP
-
----
-
-#### Full Blood Count
-**Description:** A test that measures the levels of red blood cells, white blood cells, and platelets in the blood.
-**Synonyms:** Complete blood count (CBC)
-**Acronyms:** FBC
-
----
-
-#### Fludarabine and Cyclophosphamide
-**Description:** A chemotherapy regimen used to treat certain types of leukemia and lymphoma.
-**Synonyms:** None
-**Acronyms:** FC
-
----
-
-#### Fludarabine, Cyclophosphamide, and Rituximab
-**Description:** A chemotherapy regimen used to treat chronic lymphocytic leukemia and other lymphomas.
-**Synonyms:** None
-**Acronyms:** FCR
-
----
-
-#### Fluorodeoxyglucose
-**Description:** A radiopharmaceutical used in PET imaging.
-**Synonyms:** None
-**Acronyms:** FDG
-
----
-
-#### Fluorodeoxyglucose Positron Emission Tomography
-**Description:** An imaging technique that uses FDG to detect metabolic activity and abnormalities.
-**Synonyms:** None
-**Acronyms:** FDG-PET
-
----
-
-#### 5-Fluoro-2-Deoxyuridine 5-Monophosphate
-**Description:** A metabolite of the chemotherapy drug 5-fluorouracil.
-**Synonyms:** None
-**Acronyms:** FdUMP
-
----
-
-#### Failure-Free Survival; Freedom from Salvage
-**Description:** The length of time during and after treatment in which a patient lives without a recurrence of the disease or need for salvage therapy.
-**Synonyms:** None
-**Acronyms:** FFS
-
----
-
-#### International Federation of Gynecology and Obstetrics
-**Description:** An organization that promotes the health and well-being of women, especially in the field of gynecology and obstetrics.
-**Synonyms:** None
-**Acronyms:** FIGO
-
----
-
-#### Fluorescence In Situ Hybridization
-**Description:** A molecular cytogenetic technique used to detect and localize the presence or absence of specific DNA sequences on chromosomes.
-**Synonyms:** None
-**Acronyms:** FISH
-
----
-
-#### Follic
-
-ular Lymphoma
-**Description:** A type of non-Hodgkin lymphoma that arises from B-cells and typically has a slow growth rate.
-**Synonyms:** None
-**Acronyms:** FL
-
----
-
-#### Functional Liver Remnant
-**Description:** The remaining functional liver tissue after a portion of the liver has been surgically removed.
-**Synonyms:** None
-**Acronyms:** FLR
-
----
-
-#### Fine-Needle Aspiration
-**Description:** A diagnostic procedure used to investigate lumps or masses by extracting cells for examination.
-**Synonyms:** None
-**Acronyms:** FNA
-
----
-
-#### Faecal Occult Blood
-**Description:** A test that checks for hidden (occult) blood in the stool, which can be an indication of colon cancer or polyps.
-**Synonyms:** None
-**Acronyms:** FOB
-
----
-
-#### Follicle-Stimulating Hormone
-**Description:** A hormone involved in the regulation of the reproductive processes of the body.
-**Synonyms:** None
-**Acronyms:** FSH
-
----
-
-#### Fractionated Stereotactic Radiotherapy
-**Description:** A type of radiation therapy that delivers precise doses of radiation to a tumor in several small fractions.
-**Synonyms:** None
-**Acronyms:** FSRT
-
----
-
-#### Gamma-Amino Butyric Acid
-**Description:** A neurotransmitter in the central nervous system that inhibits nerve transmission, leading to calming effects.
-**Synonyms:** None
-**Acronyms:** GABA
-
----
-
-#### Glioblastoma Multiforme
-**Description:** A fast-growing and aggressive type of central nervous system tumor that forms from glial cells.
-**Synonyms:** None
-**Acronyms:** GBM
-
----
-
-#### Granulocyte Colony-Stimulating Factor
-**Description:** A protein that stimulates the bone marrow to produce granulocytes and stem cells and release them into the bloodstream.
-**Synonyms:** None
-**Acronyms:** G-CSF
-
----
-
-#### Groupe d’Étude des Lymphomes des Adultes
-**Description:** A French organization focused on the study and treatment of adult lymphomas.
-**Synonyms:** None
-**Acronyms:** GELA
-
----
-
-#### Glomerular Filtration Rate
-**Description:** A test used to check how well the kidneys are working by estimating the volume of blood filtered by the glomeruli per minute.
-**Synonyms:** None
-**Acronyms:** GFR
-
----
-
-#### Gamma-Glutamyl Transpeptidase
-**Description:** An enzyme found in many tissues, including the liver, used to detect liver disease.
-**Synonyms:** None
-**Acronyms:** GGT
-
----
-
-#### Growth Hormone
-**Description:** A peptide hormone that stimulates growth, cell reproduction, and cell regeneration.
-**Synonyms:** Somatotropin
-**Acronyms:** GH
-
----
-
-#### Gastrointestinal
-**Description:** Relating to the stomach and intestines.
-**Synonyms:** None
-**Acronyms:** GI
-
----
-
-#### Gastrointestinal Stromal Tumour
-**Description:** A type of tumor that occurs in the digestive tract, most commonly in the stomach or small intestine.
-**Synonyms:** None
-**Acronyms:** GIST
-
----
-
-#### Gonadotrophin-Releasing Hormone
-**Description:** A hormone responsible for the release of follicle-stimulating hormone and luteinizing hormone from the anterior pituitary.
-**Synonyms:** Gonadoliberin
-**Acronyms:** GnRH
-
----
-
-#### Gastro-Oesophageal Junction
-**Description:** The area where the esophagus meets the stomach.
-**Synonyms:** None
-**Acronyms:** GOJ
-
----
-
-#### General Practitioner
-**Description:** A medical doctor who treats acute and chronic illnesses and provides preventive care and health education to patients.
-**Synonyms:** Family doctor
-**Acronyms:** GP
-
----
-
-#### Genetic Pro-Drug Activation Therapy
-**Description:** A type of targeted cancer therapy that involves modifying a patient's genes to activate a pro-drug into its active form within the tumor.
-**Synonyms:** None
-**Acronyms:** GPAT
-
----
-
-#### Gestational Trophoblastic Disease
-**Description:** A group of rare tumors that involve abnormal growth of cells inside a woman's uterus.
-**Synonyms:** None
-**Acronyms:** GTD
-
----
-
-#### Guanosine Triphosphate
-**Description:** A molecule that acts as an energy source in metabolic processes and is involved in protein synthesis and signal transduction.
-**Synonyms:** None
-**Acronyms:** GTP
-
----
-
-#### Gross Tumour Volume
-**Description:** The total volume of tumor tissue as determined by imaging and clinical examination.
-**Synonyms:** None
-**Acronyms:** GTV
-
----
-
-#### Graft-Versus-Host Disease
-**Description:** A condition that occurs when donor bone marrow or stem cells attack the recipient.
-**Synonyms:** None
-**Acronyms:** GVHD
-
----
-
-#### Graft Versus Leukaemia
-**Description:** The beneficial effect of transplanted donor immune cells recognizing and attacking leukemia cells in the recipient.
-**Synonyms:** None
-**Acronyms:** GVL
-
----
-
-#### Gray
-**Description:** A unit of absorbed radiation dose.
-**Synonyms:** None
-**Acronyms:** Gy
-
----
-
-#### Hour
-**Description:** A unit of time equal to 60 minutes.
-**Synonyms:** None
-**Acronyms:** h
-
----
-
-#### Highly Active Antiretroviral Therapy
-**Description:** A treatment regimen for HIV/AIDS that uses a combination of several antiretroviral drugs to reduce the viral load.
-**Synonyms:** None
-**Acronyms:** HAART
-
----
-
-#### Haemoglobin
-**Description:** A protein in red blood cells that carries oxygen from the lungs to the rest of the body.
-**Synonyms:** None
-**Acronyms:** Hb
-
----
-
-#### Hepatitis B Virus
-**Description:** A virus that causes inflammation of the liver and can lead to liver disease and cancer.
-**Synonyms:** None
-**Acronyms:** HBV
-
----
-
-#### Hepatocellular Carcinoma
-**Description:** The most common type of primary liver cancer.
-**Synonyms:** None
-**Acronyms:** HCC
-
----
-
-#### Human Chorionic Gonadotrophin
-**Description:** A hormone produced during pregnancy that is also used as a tumor marker for certain cancers.
-**Synonyms:** None
-**Acronyms:** HCG
-
----
-
-#### Hepatitis C Virus
-**Description:** A virus that causes liver inflammation and can lead to chronic liver disease.
-**Synonyms:** None
-**Acronyms:** HCV
-
----
-
-#### High-Dose Chemotherapy
-**Description:** A chemotherapy regimen that uses higher doses of drugs to increase the chance of eliminating cancer cells.
-**Synonyms:** None
-**Acronyms:** HDC
-
----
-
-#### High-Dose IV Interferon Alfa-2b
-**Description:** A type of immunotherapy used to treat certain cancers and viral infections.
-**Synonyms:** None
-**Acronyms:** HDI
-
----
-
-#### High-Dose-Rate
-**Description:** Refers to the rate at which radiation is delivered during brachytherapy.
-**Synonyms:** None
-**Acronyms:** HDR
-
----
-
-#### Hypoxanthine Guanine Phosphoribosyl Transferase
-**Description:** An enzyme involved in the purine salvage pathway.
-**Synonyms:** None
-**Acronyms:** HGPRT
-
----
-
-#### Human Herpesvirus
-**Description:** A group of viruses that can cause various diseases in humans, including herpes simplex and Epstein–Barr virus.
-**Synonyms:** None
-**Acronyms:** HHV
-
----
-
-#### 5-Hydroxyindoleacetic Acid
-**Description:** A breakdown product of serotonin that is measured in the urine to diagnose certain types of tumors.
-**Synonyms:** None
-**Acronyms:** 5-HIAA
-
----
-
-#### Human Immunodeficiency Virus
-**Description:** The virus that causes AIDS.
-**Synonyms:** None
-**Acronyms:** HIV
-
----
-
-#### Hodgkin’s Lymphoma
-**Description:** A type of lymphoma characterized by the presence of Reed-Sternberg cells.
-**Synonyms:** Hodgkin's disease
-**Acronyms:** HL
-
----
-
-#### Human Leucocyte-Associated Antigen
-**Description:** Molecules found on the surface of cells that are responsible for the regulation of the immune system.
-**Synonyms:** None
-**Acronyms:** HLA
-
----
-
-#### Hereditary Non-Polyposis Colon Cancer
-**Description:** An inherited disorder that increases the risk of many types of cancer, particularly colorectal cancer.
-**Synonyms:** Lynch syndrome
-**Acronyms:** HNPCC
-
----
-
-#### Hepato-Pancreato-Biliary
-**Description:** Referring to the liver, pancreas, and biliary system.
-**Synonyms:** None
-**Acronyms:** HPB
-
----
-
-#### Human Placental Lactogen
-**Description:** A hormone produced by the placenta that promotes mammary gland growth and modulates metabolic functions.
-**Synonyms:** None
-**Acronyms:** HPL
-
----
-
-#### Human Papillomavirus
-**Description:** A virus that can cause genital warts and is associated with several types of cancer, including cervical cancer.
-**Synonyms:** None
-**Acronyms:** HPV
-
----
-
-#### Hormone Replacement Therapy
-**Description:** A treatment used to relieve symptoms of menopause by replenishing estrogen and progesterone.
-**Synonyms:** None
-**Acronyms:** HRT
-
----
-
-#### Herpes Simplex Virus
-**Description:** A virus that causes infections in the mouth, genitals, and other parts of the body.
-**Synonyms:** None
-**Acronyms:** HSV
-
----
-
-#### 5-Hydroxytryptamine
-**Description:** A neurotransmitter also known as serotonin, involved
-
- in mood regulation and other functions.
-**Synonyms:** Serotonin
-**Acronyms:** 5-HT3
-
----
-
-#### Haemolytic Uraemic Syndrome
-**Description:** A condition characterized by hemolytic anemia, acute kidney failure, and low platelet count.
-**Synonyms:** None
-**Acronyms:** HUS
-
- 
-
----
-
-#### Radioiodine
-**Description:** A radioactive isotope of iodine used in the treatment and diagnosis of thyroid cancer and other thyroid conditions.
-**Synonyms:** None
-**Acronyms:** 131I
-
----
-
-#### Indocyanine Green
-**Description:** A dye used in medical diagnostics, particularly for measuring cardiac output, liver function, and ophthalmic angiography.
-**Synonyms:** None
-**Acronyms:** ICG
-
----
-
-#### Intracranial Pressure
-**Description:** The pressure within the skull, which affects the brain tissue and cerebrospinal fluid.
-**Synonyms:** None
-**Acronyms:** ICP
-
----
-
-#### Intracytoplasmic Sperm Injection
-**Description:** A procedure in which a single sperm is injected directly into an egg to achieve fertilization during in vitro fertilization (IVF).
-**Synonyms:** None
-**Acronyms:** ICSI
-
----
-
-#### Intracavitary Brachytherapy
-**Description:** A form of internal radiation treatment where a radioactive source is placed inside a body cavity close to the tumor.
-**Synonyms:** None
-**Acronyms:** ICT
-
----
-
-#### Intensive Care Unit
-**Description:** A special department of a hospital that provides intensive treatment and monitoring for critically ill patients.
-**Synonyms:** None
-**Acronyms:** ICU
-
----
-
-#### Interferon
-**Description:** A protein released by host cells, usually in response to the presence of pathogens, that inhibits virus replication.
-**Synonyms:** None
-**Acronyms:** IFN
-
----
-
-#### Involved Field Radiotherapy
-**Description:** A type of radiation therapy that targets only the areas known to be affected by cancer.
-**Synonyms:** None
-**Acronyms:** IFR
-
----
-
-#### Immunoglobulin
-**Description:** A class of proteins that function as antibodies, playing a crucial role in the immune response.
-**Synonyms:** None
-**Acronyms:** Ig
-
----
-
-#### International Germ Cell Consensus Classification
-**Description:** A classification system used for staging and prognosis of germ cell tumors.
-**Synonyms:** None
-**Acronyms:** IGCCC
-
----
-
-#### Insulin-Like Growth Factor
-**Description:** A hormone similar in molecular structure to insulin, playing an important role in growth and development.
-**Synonyms:** None
-**Acronyms:** IGF
-
----
-
-#### Image-Guided Radiotherapy
-**Description:** The use of imaging during radiation therapy to improve the precision and accuracy of treatment delivery.
-**Synonyms:** None
-**Acronyms:** IGRT
-
----
-
-#### Immunohistochemistry
-**Description:** A laboratory method used to detect specific antigens in cells or tissue sections by using antibodies tagged with fluorescent or chromogenic markers.
-**Synonyms:** None
-**Acronyms:** IHC
-
----
-
-#### Interleukin
-**Description:** A group of cytokines that play an important role in the immune system, including the regulation of immune cell growth and activity.
-**Synonyms:** None
-**Acronyms:** IL
-
----
-
-#### Intensity-Modulated Radiotherapy
-**Description:** An advanced type of radiation therapy used to treat cancer and noncancerous tumors by modulating the radiation dose.
-**Synonyms:** None
-**Acronyms:** IMRT
-
----
-
-#### International Normalized Ratio
-**Description:** A standardized number that's calculated based on the results of a prothrombin time (PT) test to measure blood clotting.
-**Synonyms:** None
-**Acronyms:** INR
-
----
-
-#### Intraoperative Radiotherapy
-**Description:** The application of therapeutic levels of radiation to a target area during surgery.
-**Synonyms:** None
-**Acronyms:** IORT
-
----
-
-#### Intraoperative Ultrasound
-**Description:** The use of ultrasound during surgery to guide the surgical procedure.
-**Synonyms:** None
-**Acronyms:** IOUS
-
----
-
-#### International Prognostic Index
-**Description:** A clinical tool used to predict the prognosis of patients with aggressive non-Hodgkin's lymphoma.
-**Synonyms:** None
-**Acronyms:** IPI
-
----
-
-#### Intraductal Papillary Mucinous Neoplasm
-**Description:** A type of tumor that grows within the pancreatic ducts and has the potential to become malignant.
-**Synonyms:** None
-**Acronyms:** IPMN
-
----
-
-#### International Prognostic Scoring System
-**Description:** A scoring system used to determine the prognosis of patients with myelodysplastic syndromes.
-**Synonyms:** None
-**Acronyms:** IPSS
-
----
-
-#### Internal Tandem Duplication
-**Description:** A type of genetic mutation where a segment of DNA is duplicated and inserted next to the original sequence.
-**Synonyms:** None
-**Acronyms:** ITD
-
----
-
-#### International Unit
-**Description:** A unit of measurement for the amount of a substance, based on its biological activity or effect.
-**Synonyms:** None
-**Acronyms:** IU
-
----
-
-#### Inferior Vena Cava
-**Description:** A large vein that carries deoxygenated blood from the lower half of the body to the heart.
-**Synonyms:** None
-**Acronyms:** IVC
-
----
-
-#### Intravenous Urography
-**Description:** A radiographic technique for visualizing the urinary system by injecting a contrast dye into a vein.
-**Synonyms:** Intravenous pyelography
-**Acronyms:** IVU
-
----
-
-#### Potassium
-**Description:** An essential mineral and electrolyte necessary for many bodily functions, including muscle and nerve function.
-**Synonyms:** None
-**Acronyms:** K+
-
----
-
-#### Kilodalton
-**Description:** A unit of molecular mass equal to 1,000 daltons, often used to describe the size of proteins and other biomolecules.
-**Synonyms:** None
-**Acronyms:** kDa
-
----
-
-#### Kilo-Electron Volt
-**Description:** A unit of energy equal to one thousand electron volts, often used in the context of radiation and particle physics.
-**Synonyms:** None
-**Acronyms:** keV
-
----
-
-#### Kilopascal
-**Description:** A unit of pressure equal to one thousand pascals.
-**Synonyms:** None
-**Acronyms:** kPa
-
----
-
-#### Kaposi’s Sarcoma
-**Description:** A type of cancer that forms in the lining of blood and lymph vessels, often associated with AIDS.
-**Synonyms:** None
-**Acronyms:** KS
-
----
-
-#### Kilovolt
-**Description:** A unit of electrical potential equal to one thousand volts.
-**Synonyms:** None
-**Acronyms:** kV
-
----
-
-#### Litre
-**Description:** A unit of volume measurement in the metric system.
-**Synonyms:** None
-**Acronyms:** L
-
----
-
-#### Lymphokine-Activated Killer
-**Description:** A type of immune cell that has been stimulated by cytokines to kill tumor cells.
-**Synonyms:** None
-**Acronyms:** LAK
-
----
-
-#### Lobular Carcinoma In Situ
-**Description:** A condition in which abnormal cells are found in the lobules of the breast, which can increase the risk of developing breast cancer.
-**Synonyms:** None
-**Acronyms:** LCIS
-
----
-
-#### Lactate Dehydrogenase
-**Description:** An enzyme involved in energy production, often measured to assess tissue damage or disease.
-**Synonyms:** None
-**Acronyms:** LDH
-
----
-
-#### Lambert–Eaton Myasthenic Syndrome
-**Description:** A rare autoimmune disorder that affects the neuromuscular junction, leading to muscle weakness.
-**Synonyms:** None
-**Acronyms:** LEMS
-
----
-
-#### Liver Function Test
-**Description:** A group of blood tests that measure various enzymes, proteins, and substances produced by the liver to assess its function.
-**Synonyms:** None
-**Acronyms:** LFT
-
----
-
-#### Luteinizing Hormone
-**Description:** A hormone that plays a role in regulating the function of the testes in men and ovaries in women.
-**Synonyms:** None
-**Acronyms:** LH
-
----
-
-#### Luteinizing Hormone-Releasing Hormone
-**Description:** A hormone that stimulates the release of luteinizing hormone and follicle-stimulating hormone from the anterior pituitary.
-**Synonyms:** Gonadotropin-releasing hormone (GnRH)
-**Acronyms:** LHRH
-
----
-
-#### Lower Limit of Normal
-**Description:** The lowest value that is considered normal for a given laboratory test.
-**Synonyms:** None
-**Acronyms:** LLN
-
----
-
-#### Monoclonal Antibody
-**Description:** An antibody produced by a single clone of cells, which is specific to a single antigen site.
-**Synonyms:** None
-**Acronyms:** mAb
-
----
-
-#### Mitogen-Activated Protein
-**Description:** A type of protein involved in signaling pathways that control various cellular activities, including growth and differentiation.
-**Synonyms:** None
-**Acronyms:** MAP
-
----
-
-#### Mega Becquerel
-**Description:** A unit of radioactivity equal to one million becquerels.
-**Synonyms:** None
-**Acronyms:** MBq
-
----
-
-#### Multidrug Resistance
-**Description:** The resistance of cancer cells to multiple chemotherapy drugs, often caused by the expression of efflux pumps.
-**Synonyms:** None
-**Acronyms:** MDR
-
----
-
-#### Myelodysplastic Syndromes
-**Description:** A group of disorders caused by poorly formed or dysfunctional blood cells.
-**Synonyms:** None
-**Acronyms:** MDS
-
----
-
-#### Multidisciplinary Team
-**Description:** A team of healthcare professionals from different specialties who work together to manage a patient's care.
-**Synonyms:** None
-**Acronyms:** MDT
-
----
-
-#### Multiple Endocrine Neoplasia
-**Description:** A group of disorders that cause tumors in multiple endocrine glands.
-
-
-**Synonyms:** None
-**Acronyms:** MEN
-
----
-
-#### Milli Equivalent
-**Description:** A unit of measurement for the amount of a substance, based on its chemical activity or effect.
-**Synonyms:** None
-**Acronyms:** mEq
-
----
-
-#### Mega-Electron Volt
-**Description:** A unit of energy equal to one million electron volts, often used in the context of radiation and particle physics.
-**Synonyms:** None
-**Acronyms:** MeV
-
----
-
-#### Malignant Fibrous Histiocytoma
-**Description:** A type of soft tissue sarcoma that occurs in connective tissue.
-**Synonyms:** None
-**Acronyms:** MFH
-
----
-
-#### Magnesium Ion
-**Description:** An essential mineral involved in many bodily functions, including muscle and nerve function.
-**Synonyms:** None
-**Acronyms:** Mg2+
-
----
-
-#### O6-Methylguanine-DNA Methyl Transferase
-**Description:** An enzyme involved in DNA repair, often associated with resistance to certain chemotherapy drugs.
-**Synonyms:** None
-**Acronyms:** MGMT
-
----
-
-#### Monoclonal Gammopathy of Uncertain Significance
-**Description:** A condition in which an abnormal protein (monoclonal protein) is found in the blood.
-**Synonyms:** None
-**Acronyms:** MGUS
-
----
-
-#### Major Histocompatibility Complex
-**Description:** A set of cell surface proteins essential for the acquired immune system to recognize foreign molecules.
-**Synonyms:** None
-**Acronyms:** MHC
-
----
-
-#### Myocardial Infarction
-**Description:** Also known as a heart attack, it occurs when blood flow to a part of the heart is blocked for a long enough time that part of the heart muscle is damaged or dies.
-**Synonyms:** Heart attack
-**Acronyms:** MI
-
----
-
-#### Meta-Iodobenzylguanidine
-**Description:** A radiopharmaceutical used in the imaging and treatment of certain types of neuroendocrine tumors.
-**Synonyms:** None
-**Acronyms:** MIBG
-
----
-
-#### Mitomycin, Ifosfamide, Cisplatin
-**Description:** A chemotherapy regimen used to treat various types of cancer.
-**Synonyms:** None
-**Acronyms:** MIC
-
----
-
-#### Mega International Unit
-**Description:** A unit of measurement for the amount of a substance, based on its biological activity, equal to one million international units.
-**Synonyms:** None
-**Acronyms:** MIU
-
----
-
-#### Millilitre
-**Description:** A unit of volume measurement in the metric system.
-**Synonyms:** None
-**Acronyms:** mL
-
----
-
-#### Multileaf Collimator
-**Description:** A device used in radiation therapy to shape the radiation beam to match the shape of the tumor.
-**Synonyms:** None
-**Acronyms:** MLC
-
----
-
-#### Mitomycin
-**Description:** A chemotherapy drug used to treat various cancers.
-**Synonyms:** None
-**Acronyms:** MMC
-
----
-
-#### Millimole
-**Description:** A unit of amount of substance in the metric system, equal to one thousandth of a mole.
-**Synonyms:** None
-**Acronyms:** mmol
-
----
-
-#### Month
-**Description:** A unit of time measurement.
-**Synonyms:** None
-**Acronyms:** mo
-
----
-
-#### Mustine, Vincristine, Procarbazine, and Prednisolone
-**Description:** A chemotherapy regimen used to treat Hodgkin's lymphoma.
-**Synonyms:** None
-**Acronyms:** MOPP
-
----
-
-#### 6-Mercaptopurine
-**Description:** A chemotherapy drug used to treat leukemia and other cancers.
-**Synonyms:** None
-**Acronyms:** 6-MP
-
----
-
-#### Malignant Pleural Mesothelioma
-**Description:** A rare and aggressive form of cancer that develops in the lining of the lungs, known as the pleura.
-**Synonyms:** None
-**Acronyms:** MPM
-
----
-
-#### Magnetic Resonance
-**Description:** A technique used in imaging to visualize internal structures of the body, often used interchangeably with MRI (Magnetic Resonance Imaging).
-**Synonyms:** None
-**Acronyms:** MR
-
----
-
-#### Medical Research Council
-**Description:** A national organization in the UK that funds and promotes medical research.
-**Synonyms:** None
-**Acronyms:** MRC
-
----
-
-#### Magnetic Resonance Cholangiopancreatography
-**Description:** A special type of MRI scan that produces detailed images of the bile ducts, pancreatic duct, and gallbladder.
-**Synonyms:** None
-**Acronyms:** MRCP
-
----
-
-#### Minimal Residual Disease
-**Description:** The small number of cancer cells that may remain in a patient's body after treatment and may lead to relapse.
-**Synonyms:** None
-**Acronyms:** MRD
-
----
-
-#### Magnetic Resonance Imaging
-**Description:** A medical imaging technique used to visualize detailed internal structures of the body.
-**Synonyms:** None
-**Acronyms:** MRI
-
----
-
-#### Messenger Ribonucleic Acid
-**Description:** A single-stranded RNA molecule that carries genetic information from DNA to the protein synthesis machinery of the cell.
-**Synonyms:** None
-**Acronyms:** mRNA
-
----
-
-#### Men Who Have Sex with Men
-**Description:** A term used to describe males who engage in sexual activity with other males, regardless of their sexual orientation.
-**Synonyms:** None
-**Acronyms:** MSM
-
----
-
-#### Milli Sievert
-**Description:** A unit of ionizing radiation dose, representing one thousandth of a sievert.
-**Synonyms:** None
-**Acronyms:** mSv
-
----
-
-#### Maximal Tolerated Dose
-**Description:** The highest dose of a drug or treatment that does not cause unacceptable side effects.
-**Synonyms:** None
-**Acronyms:** MTD
-
----
-
-#### Mammalian Target of Rapamycin
-**Description:** A protein that regulates cell growth, proliferation, motility, and survival.
-**Synonyms:** None
-**Acronyms:** mTOR
-
----
-
-#### Methotrexate
-**Description:** A chemotherapy agent and immune system suppressant used to treat cancer and autoimmune diseases.
-**Synonyms:** None
-**Acronyms:** MTX
-
----
-
-#### Multigated Acquisition
-**Description:** A nuclear medicine imaging technique used to evaluate cardiac function.
-**Synonyms:** None
-**Acronyms:** MUGA
-
----
-
-#### Megavolt
-**Description:** A unit of electrical potential equal to one million volts.
-**Synonyms:** None
-**Acronyms:** MV
-
----
-
-#### Methotrexate, Vinblastine, Doxorubicin, Cisplati
-**Description:** A chemotherapy regimen used to treat bladder cancer.
-**Synonyms:** 
-**Acronyms:** MVAC
-
----
-
-#### Mitomycin, Vinblastine, Cisplatin
-**Description:** A chemotherapy regimen used to treat various cancers.
-**Synonyms:** n
-**Acronyms:** MVP
-
----
-
-#### Marginal Zone Lymphoma
-**Description:** A type of non-Hodgkin lymphoma that arises from the marginal zone of lymphoid tissues.
-**Synonyms:** None
-**Acronyms:** MZL
-
- 
-
----
-
-#### Sodium Ion
-**Description:** An essential electrolyte involved in many bodily functions, including nerve function and fluid balance.
-**Synonyms:** None
-**Acronyms:** Na+
-
----
-
-#### National Cancer Institute
-**Description:** A part of the U.S. National Institutes of Health, it leads the national effort to eliminate cancer as a major health problem.
-**Synonyms:** None
-**Acronyms:** NCI
-
----
-
-#### National Cancer Research Institute
-**Description:** An organization in the UK that coordinates cancer research and funding.
-**Synonyms:** None
-**Acronyms:** NCRI
-
----
-
-#### National Cancer Research Network
-**Description:** An organization that supports cancer research and clinical trials in the UK.
-**Synonyms:** None
-**Acronyms:** NCRN
-
----
-
-#### Nasogastric
-**Description:** Referring to the nose and stomach, typically describing a tube passed from the nose to the stomach.
-**Synonyms:** None
-**Acronyms:** NG
-
----
-
-#### Non-Hodgkin’s Lymphoma
-**Description:** A diverse group of blood cancers that include any kind of lymphoma except Hodgkin's lymphomas.
-**Synonyms:** None
-**Acronyms:** NHL
-
----
-
-#### Natural Killer
-**Description:** A type of lymphocyte that plays a major role in the host-rejection of both tumors and virally infected cells.
-**Synonyms:** None
-**Acronyms:** NK
-
----
-
-#### Neurokinin-1
-**Description:** A receptor that binds substance P and is involved in processes like pain, stress, and inflammation.
-**Synonyms:** None
-**Acronyms:** NK1
-
----
-
-#### Nodular Lymphocyte-Predominant Hodgkin’s Lymphoma
-**Description:** A rare type of Hodgkin's lymphoma characterized by the presence of large, abnormal cells called "popcorn cells."
-**Synonyms:** None
-**Acronyms:** NLPHL
-
----
-
-#### Non-Steroidal Anti-Inflammatory Drug
-**Description:** A class of drugs that provides anti-inflammatory, pain-relieving, and fever-reducing effects.
-**Synonyms:** None
-**Acronyms:** NSAID
-
----
-
-#### Non-Small-Cell Lung Cancer
-**Description:** The most common type of lung cancer, which grows and spreads more slowly than small-cell lung cancer.
-**Synonyms:** None
-**Acronyms:** NSCLC
-
----
-
-#### Neuron-Specific Enolase
-**Description:** An enzyme found in neurons and neuroendocrine cells, often used as a tumor marker.
-**Synonyms:** None
-**Acronyms:** NSE
-
----
-
-#### Non-Seminomatous Germ Cell Tumour
-**Description:** A type of testicular cancer that includes several subtypes such as embryonal carcinoma, yolk sac tumor, and choriocarcinoma.
-**Synonyms:** None
-**Acronyms:** NSGCT
-
----
-
-#### National Wilms’ Tumor Study Group
-**Description:** An organization that conducts research and clinical trials related to Wilms' tumor, a type of kidney cancer in children.
-**Synonyms:** None
-**Acronyms:** NWTS
-
----
-
-#### Oxygen
-**Description:** A colorless, odorless reactive gas that is essential for respiration in living organisms.
-**Synonyms:** None
-**Acronyms:** O2
-
----
-
-#### Organ at Risk
-**Description:** Organs that may be affected by radiation therapy and need to be protected to minimize side effects.
-**Synonyms:** None
-**Acronyms:** OAR
-
----
-
-#### Omne in Die (Once Daily)
-**Description:** A medical prescription notation indicating that a medication should be taken once a day.
-**Synonyms:** None
-**Acronyms:** od
-
----
-
-#### Osteonecrosis of the Jaw
-**Description:** A severe bone disease that affects the jaw and can result from certain medications, like bisphosphonates.
-**Synonyms:** None
-**Acronyms:** ONJ
-
----
-
-#### Overall Response Rate
-**Description:** The proportion of patients whose cancer shrinks or disappears after treatment.
-**Synonyms:** None
-**Acronyms:** ORR
-
----
-
-#### Overall Survival
-**Description:** The length of time from either the date of diagnosis or the start of treatment that patients diagnosed with the disease are still alive.
-**Synonyms:** None
-**Acronyms:** OS
-
----
-
-#### Prophylactic Cranial Irradiation
-**Description:** Preventive radiation therapy to the brain to reduce the risk of metastasis in patients with certain types of cancer.
-**Synonyms:** None
-**Acronyms:** PCI
-
----
-
-#### Primary Central Nervous System Lymphoma
-**Description:** A rare form of non-Hodgkin lymphoma that starts in the central nervous system.
-**Synonyms:** None
-**Acronyms:** PCNSL
-
----
-
-#### Polymerase Chain Reaction
-**Description:** A laboratory technique used to make multiple copies of a segment of DNA.
-**Synonyms:** None
-**Acronyms:** PCR
+onyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Programme Death-1
-**Description:** A protein on the surface of cells that helps keep the body's immune responses in check.
-**Synonyms:** None
-**Acronyms:** PD-1
+**Nano-flares**  
+- **Description:** A class of spherical nucleic acids that can be used for intracellular mRNA detection where dye-containing reporter strands indicate the presence of the target species at low concentrations.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Platelet-Derived Growth Factor
-**Description:** A growth factor involved in wound healing and the development of blood vessels.
-**Synonyms:** None
-**Acronyms:** PDGF
+**Nanofluidics**  
+- **Description:** The control of nanoscale amounts of fluids.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Platelet-Derived Growth Factor Receptor
-**Description:** A cell surface receptor for PDGF, involved in various cellular processes including growth and development.
-**Synonyms:** None
-**Acronyms:** PDGFR
+**Nanolithography**  
+- **Description:** Writing nanoscale patterns.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Programme Death-1 Ligand
-**Description:** A protein that binds to PD-1, playing a role in suppressing the immune system and promoting self-tolerance.
-**Synonyms:** None
-**Acronyms:** PD-L1
+**Nanomanipulation**  
+- **Description:** The process of manipulating items at an atomic or molecular scale in order to produce precise structures.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Pulmonary Embolus
-**Description:** A blockage in one of the pulmonary arteries in the lungs, usually caused by blood clots that travel to the lungs from the legs.
-**Synonyms:** None
-**Acronyms:** PE
+**Nanomaterials**  
+- **Description:** Nanoscale particles, films, and composites designed and assembled in controlled ways.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Positron Emission Tomography
-**Description:** An imaging test that helps reveal how your tissues and organs are functioning by using a radioactive drug (tracer).
-**Synonyms:** None
-**Acronyms:** PET
+**Nanometer**  
+- **Description:** A unit of measurement equal to one-billionth of one meter. The head of a pin is about 1 million nanometers across. A human hair is about 60,000 nanometers in diameter, and a DNA molecule is between 2-12 nanometers wide.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Progression-Free Survival
-**Description:** The length of time during and after treatment that a patient lives with the disease but it does not get worse.
-**Synonyms:** None
-**Acronyms:** PFS
+**Nanoparticles**  
+- **Description:** Particles ranging from 1 to 100 nanometers in diameter. Semiconductor nanoparticles up to 20 nanometers in diameter are often called quantum dots, nanocrystals, or Q-particles.  
+- **Synonyms:** Quantum dots, Nanocrystals, Q-particles  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### P-170 Glycoprotein
-**Description:** A protein associated with multidrug resistance in cancer cells.
-**Synonyms:** None
-**Acronyms:** Pgp
+**Nanoporous materials**  
+- **Description:** Engineered materials with nanoscale holes, used in filters, sensors, and diffraction gratings. In DNA sequencing, nanoporous materials have tiny holes that allow DNA to pass through one strand at a time. In biology, complex protein assemblies that span cell membranes allow ionic transport across the otherwise impermeable lipid bilayer.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Peripherally Inserted Central Catheter
-**Description:** A long, thin tube that's inserted through a vein in the arm and passed through to the larger veins near the heart.
-**Synonyms:** None
-**Acronyms:** PICC
+**Nanomachine**  
+- **Description:** A nanoscale device capable of performing mechanical movements due to responses to specific stimuli.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Peripheral Neuropathy
-**Description:** A result of damage to the peripheral nerves, causing weakness, numbness, and pain, usually in the hands and feet.
-**Synonyms:** None
-**Acronyms:** PN
+**Nanomedicine**  
+- **Description:** The application of nanotechnology to solve medical problems.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomedicine
 
 ---
 
-#### Primitive Neuroectodermal Tumour
-**Description:** A group of cancers that occur primarily in children and young adults, arising from primitive nerve cells.
-**Synonyms:** None
-**Acronyms:** PNET
+**Nanoremediation**  
+- **Description:** Using nanomaterials to remove environmental pollutants.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Per Os (Orally)
-**Description:** A medical instruction indicating that a medication is to be taken by mouth.
-**Synonyms:** None
-**Acronyms:** PO
+**Nanoscale**  
+- **Description:** Length scale applicable to nanotechnology (i.e., 1-100 nanometers).  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Phosphate Ion
-**Description:** An inorganic chemical and a salt of phosphoric acid.
-**Synonyms:** None
-**Acronyms:** PO43–
+**Nanoscience**  
+- **Description:** The study of materials on the nanoscale.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanoscience
 
 ---
 
-#### Proton Pump Inhibitor
-**Description:** A type of medication that reduces stomach acid production.
-**Synonyms:** None
-**Acronyms:** PPI
+**Nanosensor**  
+- **Description:** A nanoscale device capable of detecting stimuli at the molecular level.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanosensor
 
 ---
 
-#### Progesterone Receptor
-**Description:** A protein found inside cells that binds to the hormone progesterone, often measured in breast cancer cells to guide treatment.
-**Synonyms:** None
-**Acronyms:** PR
+**Nanoshell**  
+- **Description:** A nanoparticle that has a metallic shell surrounding a semiconductor. Nanoshells are being investigated for use in treating cancer.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
 
 ---
 
-#### Packed Red Blood Cell
-**Description:** Red blood cells that have been separated for blood transfusion purposes.
-**Synonyms:** None
-**Acronyms:** pRBC
+**Nanostructures**  
+- **Description:** Structures made from nanomaterials.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
 
 ---
 
-#### Pro Re Nata (As Needed)
-**Description:** A medical instruction that means to take a medication as required.
-**Synonyms:** None
-**Acronyms:** prn
+**Nanotechnology**  
+- **Description:** The usage of matter on the nanometer scale to produce structures, systems, and technological devices.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Performance Status; Paraneoplastic Syndromes
-**Description:** Refers to both a measure of a patient's general well-being and ability to perform activities and a group of rare disorders triggered by an abnormal immune response to a cancerous tumor.
-**Synonyms:** None
-**Acronyms:** PS
+**Nanotubes**  
+- **Description:** Long, thin cylinders of carbon, discovered in 1991 by S. Iijima. These large macromolecules are unique for their size, shape, and remarkable physical properties. They can be thought of as a sheet of graphite (a hexagonal lattice of carbon) rolled into a cylinder. The physical properties are still being discovered. Nanotubes have a very broad range of electronic, thermal, and structural properties that change depending on the different kinds of nanotube (defined by its diameter, length, and chirality, or twist). To make things more interesting, besides having a single cylindrical wall (Single Walled Nanotubes or SWNTs), nanotubes can have multiple walls (MWNTs)–cylinders inside the other cylinders. Usually referred to as carbon nanotubes, also known as nanorods. Applications for carbon nanotubes include high-density data storage, nanoscale electronics, and flexible solar cells.  
+- **Synonyms:** Nanorods  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
 
 ---
 
-#### Prostate-Specific Antigen
-**Description:** A protein produced by cells of the prostate gland, elevated levels can indicate prostate cancer.
-**Synonyms:** None
-**Acronyms:** PSA
+**NMR (Nuclear Magnetic Resonance) spectroscopy**  
+- **Description:** Analytical technique used to determine the structure of molecules. In NMR, the molecule is placed within a strong magnetic field to align the atomic nuclei. An oscillating electromagnetic field is applied, and the radiation absorbed or emitted by the molecule is measured. Not all atoms can be detected using NMR because the nuclei must have non-zero magnetic moments.  
+- **Synonyms:** None  
+- **Acronyms:** NMR  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### Primary Sclerosing Cholangitis
-**Description:** A disease of the bile ducts that causes inflammation and subsequent obstruction of bile flow.
-**Synonyms:** None
-**Acronyms:** PSC
+**Noncovalent interactions**  
+- **Description:** Interactions first recognized by J. D. van der Waals in the nineteenth century. In contrast to the covalent interactions, noncovalent interactions are weak interactions that bind together different kinds of building blocks into supramolecular entities.  
+- **Synonyms:** Van der Waals interactions  
+- **Acronyms:** None  
+- **Antonyms:** Covalent interactions  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Placental-Site Trophoblastic Tumour
-**Description:** A rare form of gestational trophoblastic disease that arises from placental implantation site.
-**Synonyms:** None
-**Acronyms:** PSTT
+**OLED**  
+- **Description:** Organic light-emitting diodes; a special class of light-emitting diodes made of only organic molecules that emit light in response to electric current.  
+- **Synonyms:** None  
+- **Acronyms:** OLED  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Percutaneous Transhepatic Cholangiography
-**Description:** A diagnostic procedure to visualize the bile ducts by injecting a contrast dye directly into the liver.
-**Synonyms:** None
-**Acronyms:** PTC
+**Oxidation**  
+- **Description:** Process in which a molecule loses one or more electrons to another component of the reaction.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Reduction  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Parathyroid Hormone
-**Description:** A hormone secreted by the parathyroid glands that regulates calcium levels in
+**Perovskite**  
+- **Description:** Materials with crystal structures with the formula ABX3 that often show promise for integration into high-efficiency solar cells, optical displays, and detectors.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
- the blood.
-**Synonyms:** None
-**Acronyms:** PTH
-
----
-
-#### Parathyroid Hormone-Related Protein
-**Description:** A protein involved in the regulation of calcium ion concentration in the blood.
-**Synonyms:** None
-**Acronyms:** PTHrP
-
----
-
-#### Planning Target Volume
-**Description:** The volume of tissue that is planned to receive a specified dose of radiation during treatment.
-**Synonyms:** None
-**Acronyms:** PTV
-
----
-
-#### Portal Vein Embolization
-**Description:** A procedure to block the blood flow to part of the liver to increase the growth of liver tissue before surgery.
-**Synonyms:** None
-**Acronyms:** PVE
-
----
-
-#### Every
-**Description:** A medical instruction indicating that a medication should be taken at regular intervals.
-**Synonyms:** None
-**Acronyms:** q
-
----
-
-#### Quater Die Sumendum (Four Times Daily)
-**Description:** A medical instruction indicating that a medication should be taken four times a day.
-**Synonyms:** None
-**Acronyms:** qds
-
 ---
 
-#### Quality of Life
-**Description:** A measure of a person's comfort, health, and happiness.
-**Synonyms:** None
-**Acronyms:** QoL
+**Phase**  
+- **Description:** A part of a sample of matter that is in contact with other parts but is separate from them. Properties within a phase are homogeneous (uniform). For example, oil and vinegar salad dressing contains two phases: an oil-rich liquid, and a vinegar-rich liquid. Shaking the bottle breaks the phases up into tiny droplets, but there are still two distinct phases.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Red Blood Cell
-**Description:** A type of blood cell that carries oxygen from the lungs to the rest of the body.
-**Synonyms:** None
-**Acronyms:** RBC
+**Phase diagram**  
+- **Description:** A map that shows which phases of a sample are most stable for a given set of conditions. Phases are depicted as regions on the map; the borderlines between regions correspond to conditions where the phases can coexist in equilibrium.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanoanalysis
 
 ---
 
-#### Renal Cell Carcinoma
-**Description:** The most common type of kidney cancer in adults.
-**Synonyms:** None
-**Acronyms:** RCC
+**Phase transport**  
+- **Description:** The movement of heat, mass, and momentum in a medium.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Randomized Controlled Trial
-**Description:** A study in which people are allocated at random to receive one of several clinical interventions.
-**Synonyms:** None
-**Acronyms:** RCT
+**Photoluminescence**  
+- **Description:** Light excited in a body by some form of electromagnetic radiation in the ultraviolet, visible, or infrared regions of the electromagnetic spectrum.  
+- **Synonyms:** None  
+- **Acronyms:**
 
----
-
-#### Response Evaluation Criteria in Solid Tumors
-**Description:** A set of standardized criteria for assessing the response of tumors to treatment.
-**Synonyms:** None
-**Acronyms:** RECIST
-
----
-
-#### Radiofrequency Ablation
-**Description:** A medical procedure in which part of the electrical conduction system of the heart, a tumor, or other dysfunctional tissue is ablated using the heat generated from high-frequency alternating current.
-**Synonyms:** None
-**Acronyms:** RFA
-
----
-
-#### Reduced Intensity Conditioning
-**Description:** A type of conditioning regimen that uses lower doses of chemotherapy and/or radiation before a stem cell transplant.
-**Synonyms:** None
-**Acronyms:** RIC
+ None  
+- **Antonyms:** None  
+- **Descriptor:** Nanophotonics
 
 ---
 
-#### Ribonucleic Acid
-**Description:** A molecule essential in various biological roles, including coding, decoding, regulation, and expression of genes.
-**Synonyms:** None
-**Acronyms:** RNA
+**Pi-stacking**  
+- **Description:** An attractive noncovalent interaction between two aromatic rings which functions as a stabilizing force for DNA duplex formation.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Receptor Tyrosine Kinase
-**Description:** A family of cell surface receptors that are key regulators of cellular processes.
-**Synonyms:** None
-**Acronyms:** RTK
+**Piezoelectrics**  
+- **Description:** Dielectric crystal that produce a voltage when subjected to mechanical stress or can change shape when subjected to a voltage.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Radiation Therapy Oncology Group
-**Description:** An organization that conducts clinical trials to improve the outcomes of patients treated with radiation therapy.
-**Synonyms:** None
-**Acronyms:** RTOG
+**Plasmid**  
+- **Description:** A circular (two-dimensional) double-stranded DNA structure commonly found in bacteria that is distinct from chromosomal DNA.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
- 
-
----
-
-#### Reverse Transcriptase Polymerase Chain Reaction
-**Description:** A laboratory technique used to detect and quantify RNA by converting it into DNA.
-**Synonyms:** None
-**Acronyms:** RT-PCR
-
 ---
 
-#### Subarachnoid Space
-**Description:** The area between the arachnoid membrane and the pia mater surrounding the brain and spinal cord.
-**Synonyms:** None
-**Acronyms:** SAS
+**Polymer**  
+- **Description:** A macromolecule formed from a long chain of molecules called monomers; a high-molecular-weight material composed of repeating sub-units. Polymers may be organic, inorganic, or organometallic, and synthetic or natural in origin.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Monomer  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Solitary Plasmacytoma of Bone
-**Description:** A type of plasma cell tumor that starts in the bone.
-**Synonyms:** None
-**Acronyms:** SBP
+**Polymer Pen Lithography (PPL)**  
+- **Description:** A cantilever-free scanning probe lithography method for the high-throughput patterning of nanoscale features with controllable size. PPL uses pen arrays with as many as 2.8 million elastomer tips.  
+- **Synonyms:** None  
+- **Acronyms:** PPL  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Subcutaneous
-**Description:** Situated or applied under the skin.
-**Synonyms:** None
-**Acronyms:** s/c
+**Polymerase chain reaction**  
+- **Description:** A technique for copying and amplifying the complementary strands of a target DNA molecule.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Squamous Cell Carcinoma
-**Description:** A type of cancer that begins in the squamous cells, which are thin, flat cells that look like fish scales.
-**Synonyms:** None
-**Acronyms:** SCC
+**Polymorphism**  
+- **Description:** The property of a chemical substance crystallizing into two or more forms having different structures, such as diamond, graphite, and fullerenes from carbon.  
+- **Synonyms:** Pleomorphism  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Supraclavicular Fossa
-**Description:** An anatomical area above the clavicle (collarbone) that contains lymph nodes.
-**Synonyms:** None
-**Acronyms:** SCF
+**Pro SNA**  
+- **Description:** A type of spherical nucleic acid that uses a protein as the core to improve delivery of protein therapeutics.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Small-Cell Lung Cancer
-**Description:** A fast-growing type of lung cancer that is usually associated with smoking.
-**Synonyms:** None
-**Acronyms:** SCLC
+**Programmable Atomic Equivalents (PAEs)**  
+- **Description:** A class of DNA-functionalized spherical or anisotropic nanostructures that can be likened to conventional atoms in the sense that the nanoparticle core represents the “atom” and the DNA strands represent the “bonds” between them when such structures are assembled into colloidal crystal superlattices via programmed DNA hybridization. Spherical nucleic acids are a type of PAE.  
+- **Synonyms:** None  
+- **Acronyms:** PAEs  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Small Cell Lymphocytic Lymphoma
-**Description:** A type of non-Hodgkin lymphoma that is similar to chronic lymphocytic leukemia.
-**Synonyms:** None
-**Acronyms:** SCLL
+**Protein**  
+- **Description:** Large organic molecules involved in all aspects of cell structure and function.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Standard Deviation
-**Description:** A measure of the amount of variation or dispersion of a set of values.
-**Synonyms:** None
-**Acronyms:** SD
+**Proteomics**  
+- **Description:** The separation, identification, and characterization of the complete set of proteins present in the various cells of an organism; the design and construction of new proteins.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Genomics  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Serum Free Light Chain Ratio
-**Description:** A test that measures the amount of free light chains in the blood, which can be indicative of multiple myeloma and other plasma cell disorders.
-**Synonyms:** None
-**Acronyms:** SFLCR
+**Quantum confinement effect**  
+- **Description:** Atoms caged inside nanocrystals.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Serum Glutamic Pyruvic Transaminase
-**Description:** An enzyme found in the liver and heart, used as a marker for liver health.
-**Synonyms:** Alanine transaminase (ALT)
-**Acronyms:** SGPT
+**Quantum dot**  
+- **Description:** A nanoscale crystalline structure made from cadmium selenide that absorbs white light and then re-emits it a couple of nanoseconds later in a specific color. The quantum dot was originally investigated for possible computer applications. Recently, researchers are investigating the use of quantum dots for medical applications, using the molecule-sized crystals as probes to track antibodies, viruses, proteins, or DNA within the human body.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Secretion of Inappropriate Antidiuretic Hormone
-**Description:** A condition in which excessive levels of antidiuretic hormone are released, causing water retention and hyponatremia.
-**Synonyms:** None
-**Acronyms:** SIADH
+**Raman spectroscopy**  
+- **Description:** Analysis of the intensity of Raman scattering, in which light is scattered as it passes through a material medium and suffers a change in frequency and a random alteration in phase. The resulting information is useful for determining molecular structure.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### International Society of Paediatric Oncology
-**Description:** An organization dedicated to improving the lives of children with cancer worldwide.
-**Synonyms:** None
-**Acronyms:** SIOP
+**Rational Vaccinology**  
+- **Description:** Design strategy that relies on the structural composition of a vaccine in addition to vaccine component type to optimize vaccine effectiveness.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomedicine
 
 ---
 
-#### Systemic Lupus Erythematosus
-**Description:** An autoimmune disease in which the immune system attacks its own tissues, causing widespread inflammation and tissue damage.
-**Synonyms:** None
-**Acronyms:** SLE
+**Reduction**  
+- **Description:** In analytical chemistry, the preparation of one or more subsamples from a sample of material that is to be analyzed chemically. In chemistry, reduction refers to the reaction of hydrogen with another substance or the chemical reaction in which an element gains an electron.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Oxidation  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Sentinel Lymph Node Biopsy
-**Description:** A surgical procedure used to determine if cancer has spread beyond a primary tumor into the lymphatic system.
-**Synonyms:** None
-**Acronyms:** SLNB
+**Resists**  
+- **Description:** Elements used in performing photolithography experiments. Resists are polymer materials spun onto a substrate. When exposed to UV light, the polymer in the resist cross-links. When treated with a solvent, the cross-linked portion of the resist dissolves, leaving the desired pattern.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Scottish Medicines Consortium
-**Description:** An organization that provides advice to NHS Scotland about the value of new medicines.
-**Synonyms:** None
-**Acronyms:** SMC
+**RNA (ribonucleic acid)**  
+- **Description:** A long linear polymer of nucleotides found mainly in the cytoplasm of a cell that transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell.  
+- **Synonyms:** None  
+- **Acronyms:** RNA  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Single-Nucleotide Polymorphism
-**Description:** A variation at a single position in a DNA sequence among individuals.
-**Synonyms:** None
-**Acronyms:** SNP
+**RNA structures**  
+- **Description:** Molecules that act as scaffolds upon which proteins are assembled to form functional ribosomes. RNA structures include a variety of single-stranded and double-stranded structures that result in complex three-dimensional structures.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Shortness of Breath
-**Description:** A feeling of not being able to breathe well enough.
-**Synonyms:** Dyspnea
-**Acronyms:** SOB
+**Rotaxane**  
+- **Description:** A molecular machine developed by Sir Fraser Stoddart in 1991 which led to him receiving the Nobel Prize in Chemistry 2016. A molecular ring is programmed to surround and move along a molecular axle.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Single-Photon Emission Computerized Tomography
-**Description:** A nuclear imaging test that shows how blood flows to tissues and organs.
-**Synonyms:** None
-**Acronyms:** SPECT
+**Scaffold**  
+- **Description:** Three-dimensional biodegradable polymers engineered for cell growth.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Species
-**Description:** A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.
-**Synonyms:** None
-**Acronyms:** spp.
+**Scanning Electron Microscope (SEM)**  
+- **Description:** A microscope which uses a beam of electrons to take images of the surface of a material.  
+- **Synonyms:** None  
+- **Acronyms:** SEM  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### Stereotactic Radiosurgery
-**Description:** A non-surgical radiation therapy used to treat functional abnormalities and small tumors of the brain.
-**Synonyms:** None
-**Acronyms:** SRS
+**Scanning Probe Microscopy (SPM)**  
+- **Description:** Experimental techniques used to image both organic and inorganic surfaces with (near) atomic resolution. Includes atomic force microscopes and scanning tunneling microscopes.  
+- **Synonyms:** None  
+- **Acronyms:** SPM  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### Superior Vena Cava
-**Description:** A large vein that carries deoxygenated blood from the upper half of the body to the heart.
-**Synonyms:** None
-**Acronyms:** SVC
+**Scanning Probe Block Copolymer Lithography (SPBCL)**  
+- **Description:** A cantilever-free scanning probe-based technique that uses block copolymer inks containing metal precursors for DPN or PPL that can be used to create Megalibraries for exploring the materials genome.  
+- **Synonyms:** None  
+- **Acronyms:** SPBCL  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Superior Vena Cava Obstruction
-**Description:** A condition in which the superior vena cava is partially or completely blocked.
-**Synonyms:** None
-**Acronyms:** SVCO
+**Scanning Tunneling Microscope (STM)**  
+- **Description:** A scanning probe microscopy instrument capable of revealing the structure of samples. The STM uses a sharp metal tip positioned over a conducting substrate with a small potential difference applied between them. The gap between the tip and substrate surface is small enough so that electrons can tunnel between the tip and the surface. The tip is then scanned across the surface and adjusted to keep a contact current flowing. By recording the tip height at each location a “map” of the sample surface is obtained.  
+- **Synonyms:** None  
+- **Acronyms:** STM  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### Supraventricular Tachycardia
-**Description:** An abnormally fast heart rhythm arising from improper electrical activity in the upper part of the heart.
-**Synonyms:** None
-**Acronyms:** SVT
+**Second-Harmonic Generation (SHG)**  
+- **Description:** The light that results when a beam of monochromatic light
 
----
-
-#### Trans-Arterial Chemoembolization
-**Description:** A procedure that delivers chemotherapy directly to a liver tumor through the blood vessels.
-**Synonyms:** None
-**Acronyms:** TACE
+ hits an asymmetrical surface. The second harmonic light is at a frequency twice that of the incident light and allows the study of surface phenomena such as molecular adsorption, aggregation, and orientation as well as of buried interfaces.  
+- **Synonyms:** None  
+- **Acronyms:** SHG  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### Total Body Irradiation
-**Description:** A form of radiotherapy used primarily as part of the preparative regimen for a bone marrow or stem cell transplant.
-**Synonyms:** None
-**Acronyms:** TBI
+**Self-Assembled Monolayers (SAMs)**  
+- **Description:** Monomolecular films that form or self-assemble after immersing a substrate into a solution of an active surfactant.  
+- **Synonyms:** None  
+- **Acronyms:** SAMs  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Transbronchial Needle Aspiration
-**Description:** A procedure to obtain tissue or fluid samples from the lungs and surrounding lymph nodes using a bronchoscope.
-**Synonyms:** None
-**Acronyms:** TBNA
+**Self-assembly**  
+- **Description:** At the molecular level, the spontaneous gathering of molecules into well-defined, stable, structures that are held together by intermolecular forces. In chemical solutions, self-assembly (also called Brownian assembly) results from the random motion of molecules and the affinity of their binding sites for one another. Self-assembly also refers to the joining of complementary surfaces in nanomolecular interaction. Developing simple, efficient methods to organize molecules and molecular clusters into precise, pre-determined structures is an important area of nanotechnology exploration.  
+- **Synonyms:** Brownian assembly  
+- **Acronyms:** None  
+- **Antonyms:** Directed assembly  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Tera Becquerel
-**Description:** A unit of radioactivity equal to one trillion becquerels.
-**Synonyms:** None
-**Acronyms:** TBq
+**Self-repair**  
+- **Description:** A property of a material where it can correct or fix defects within itself.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
 ---
 
-#### Tricyclic Antidepressant
-**Description:** A class of medications used to treat depression and other mood disorders.
-**Synonyms:** None
-**Acronyms:** TCA
+**Sensor**  
+- **Description:** A device that detects a change in environment or property.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanosensor
 
 ---
 
-#### Transitional Cell Carcinoma
-**Description:** A type of cancer that typically occurs in the urinary system: the bladder, ureter, and renal pelvis.
-**Synonyms:** None
-**Acronyms:** TCC
+**Simulation**  
+- **Description:** A broad collection of methods used to study and analyze the behavior and performance of actual or theoretical systems. Simulation provides a mechanism for predicting computationally useful functional properties of systems, including thermodynamic, thermochemical, spectroscopic, mechanical, and transport properties.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanoanalysis
 
 ---
 
-#### Ter Die Sumendum (Three Times Daily)
-**Description:** A medical instruction indicating that a medication should be taken three times a day.
-**Synonyms:** None
-**Acronyms:** tds
+**Single-molecule studies**  
+- **Description:** The analysis of individual molecular properties in contrast with the study of bulk properties.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Bulk studies  
+- **Descriptor:** Nanoanalysis
 
 ---
 
-#### Thyroid Function Test
-**Description:** A group of tests used to evaluate how well the thyroid gland is working.
-**Synonyms:** None
-**Acronyms:** TFT
+**Single-source precursors**  
+- **Description:** In materials science, the starting materials for semiconductor devices; powdered materials with uniform chemical composition throughout the mixture.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Multiple-source precursors  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Thyroglobulin
-**Description:** A protein produced by the thyroid gland, used as a tumor marker for certain types of thyroid cancer.
-**Synonyms:** None
-**Acronyms:** TG
+**Small-Angle X-Ray Scattering (SAXS)**  
+- **Description:** A high-energy X-ray-based characterization technique used to analyze the structural properties (i.e., periodicity and spacing) of the unit cells that make up nanocrystalline materials.  
+- **Synonyms:** None  
+- **Acronyms:** SAXS  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### 6-Thioguanine
-**Description:** A chemotherapy drug used to treat leukemia.
-**Synonyms:** None
-**Acronyms:** 6-TG
+**Sol-gel materials**  
+- **Description:** Gels, glasses, and ceramic powders synthesized through the sol-gel process; organic-inorganic composite materials.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Transforming Growth Factor Alpha
-**Description:** A protein involved in the regulation of cell proliferation, differentiation, and development.
-**Synonyms:** None
-**Acronyms:** TGFA
+**Sol-gel process**  
+- **Description:** A chemical synthesis technique for preparing gels, glasses, and ceramic powders generally involving the use of metal alkoxides.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Transforming Growth Factor Beta
-**Description:** A protein that controls proliferation, cellular differentiation, and other functions in most cells.
-**Synonyms:** None
-**Acronyms:** TGFB
+**Solid-state reactions**  
+- **Description:** Transformations that occur in and between solids and between solids and other phases to produce solids.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Solution-phase reactions  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Irradiation of the Thorax
-**Description:** The application of radiation therapy to the chest area.
-**Synonyms:** None
-**Acronyms:** TI
+**Spherical Nucleic Acid**  
+- **Description:** Nanostructures that typically consist of a densely packed, highly oriented, radial arrangement of nucleic acids affixed at one end to a three-dimensional, spherical nanoparticle core.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Tyrosine Kinase
-**Description:** An enzyme that can transfer a phosphate group from ATP to a protein in a cell, which can signal the cell to grow and divide.
-**Synonyms:** None
-**Acronyms:** TK
+**Statistical analysis**  
+- **Description:** The science of collecting, exploring, and presenting data to draw conclusions of underlying patterns and trends.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanoanalysis
 
 ---
 
-#### Tyrosine Kinase Inhibitor
-**Description:** A pharmaceutical drug that inhibits tyrosine kinases, used to treat various cancers.
-**Synonyms:** None
-**Acronyms:** TKI
+**Sticky end**  
+- **Description:** An overhanging region of unpaired nucleotides at the end of a DNA duplex.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Blunt end  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Total Excision of the Mesorectum
-**Description:** A surgical procedure to remove the mesorectum, the fatty tissue surrounding the rectum, usually performed for rectal cancer.
-**Synonyms:** None
-**Acronyms:** TME
+**Strand displacement**  
+- **Description:** A process that occurs when a DNA strand, usually with a larger number of complementary bases, replaces the original strand on duplexed DNA.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Tumour Necrosis Factor
-**Description:** A cytokine involved in systemic inflammation, and is one of the cytokines that make up the acute phase reaction.
-**Synonyms:** None
-**Acronyms:** TNF
+**Substrate**  
+- **Description:** A wafer that is the basis for subsequent processing operations in the fabrication of semiconductor devices.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Topoisomerase I
-**Description:** An enzyme that alleviates torsional strain in DNA by inducing single-strand breaks.
-**Synonyms:** None
-**Acronyms:** topo I
+**Superconductor**  
+- **Description:** An object or substance that conducts electricity with zero resistance.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Semiconductor, Insulator  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Topoisomerase II
-**Description:** An enzyme that alleviates torsional strain in DNA by inducing double-strand breaks.
-**Synonyms:** None
-**Acronyms:** topo II
+**Superhydrophobicity**  
+- **Description:** Extreme water repellence.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Hydrophilicity  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Transplant-Related Mortality
-**Description:** The percentage of patients who die as a result of complications related to a transplant procedure.
-**Synonyms:** None
-**Acronyms:** TRM
+**Superlattice**  
+- **Description:** A periodic structure comprised of nanoparticle building blocks.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanostructure
 
 ---
 
-#### Thymidylate Synthase
-**Description:** An enzyme involved in DNA synthesis and repair.
-**Synonyms:** None
-**Acronyms:** TS
+**Supramolecular synthesis**  
+- **Description:** The formation of molecular complexes through non-covalent interactions.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Thyroid-Stimulating Hormone
-**Description:** A hormone that stimulates the thyroid gland to produce thyroid hormones.
-**Synonyms:** None
-**Acronyms:** TSH
+**Synthesis**  
+- **Description:** Any process or reaction for building up a complex compound by the union of simpler compounds or elements.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Analysis  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Thrombotic Thrombocytopenic Purpura; Time to Progression
-**Description:** A rare blood disorder characterized by clotting in small blood vessels, leading to a low platelet count; also used to describe the duration until a disease worsens.
-**
+**Synthetic methods**  
+- **Description:** Techniques for the design and creation of new materials in the laboratory.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Natural methods  
+- **Descriptor:** Nanochemistry
 
-Synonyms:** None
-**Acronyms:** TTP
-
 ---
 
-#### Transurethral Resection of Bladder Tumour
-**Description:** A surgical procedure to remove tumors from the bladder using a resectoscope inserted through the urethra.
-**Synonyms:** None
-**Acronyms:** TURBT
+**Template**  
+- **Description:** In cell and molecular biology, the macromolecular model for the synthesis of another macromolecule.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Transurethral Resection of the Prostate
-**Description:** A surgical procedure to remove parts of the prostate gland through the urethra.
-**Synonyms:** None
-**Acronyms:** TURP
+**Template synthesis**  
+- **Description:** The engineered design and creation of materials of controlled size, shape, and surface chemistry.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Urea and Electrolytes
-**Description:** A group of blood tests that measure kidney function, hydration status, and electrolyte levels.
-**Synonyms:** None
-**Acronyms:** U & Es
+**Thin film**  
+- **Description:** A film one molecule thick; often referred to as a monolayer.  
+- **Synonyms:** Monolayer  
+- **Acronyms:** None  
+- **Antonyms:** Thick film  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Upper Limit of Normal
-**Description:** The highest value that is considered normal for a given laboratory test.
-**Synonyms:** None
-**Acronyms:** ULN
+**Top-down assembly**  
+- **Description:** The process of removing material from a larger structure to create smaller ones.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Bottom-up assembly  
+- **Descriptor:** Nanofabrication
 
 ---
 
-#### Ultrasound Scan
-**Description:** An imaging method that uses high-frequency sound waves to produce images of structures within the body.
-**Synonyms:** None
-**Acronyms:** USS
+**Transmission Electron Microscopy (TEM)**  
+- **Description:** The use of electron high-energy beams to achieve magnification close to atomic observation.  
+- **Synonyms:** None  
+- **Acronyms:** TEM  
+- **Antonyms:** Light microscopy  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### Video-Assisted Thoracoscopic Surgery
-**Description:** A minimally invasive surgical technique used to diagnose and treat problems in the chest.
-**Synonyms:** None
-**Acronyms:** VATS
+**UV/VIS (Ultraviolet-Visible) Spectroscopy/Spectrophotometry**  
+- **Description:** Method to determine concentrations of an absorbing species in solution. This technique uses light in the visible and adjacent near ultraviolet (UV) and near infrared (NIR) ranges to achieve this quantitative analysis.  
+- **Synonyms:** None  
+- **Acronyms:** UV/VIS  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### Vomiting Centre
-**Description:** An area in the brain that coordinates the act of vomiting.
-**Synonyms:** None
-**Acronyms:** VC
+**Vesicles**  
+- **Description:** In cell biology, a relatively small and enclosed compartment, separated from the cytosol by at least one lipid bilayer. Vesicles store, transport, or digest cellular products and wastes.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Vascular Endothelial Growth Factor
-**Description:** A signal protein that stimulates the formation of blood vessels.
-**Synonyms:** None
-**Acronyms:** VEGF
-
----
+**Watson-Crick pairing**  
+- **Description:** The hydrogen bonding
 
-#### Von Hippel Lindau
-**Description:** A genetic disorder characterized by the formation of tumors and fluid-filled sacs (cysts) in multiple organs.
-**Synonyms:** None
-**Acronyms:** vHL
+ motifs behind the programmable specificity of DNA-DNA interactions, where nucleobases will preferentially bind with their complements (i.e., adenine pairs with thymine and cytosine pairs with guanine).  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanobiotechnology
 
 ---
 
-#### Vasoactive Intestinal Peptide
-**Description:** A neuropeptide that has several physiological effects, including vasodilation and smooth muscle relaxation.
-**Synonyms:** None
-**Acronyms:** VIP
+**Weak Link Approach (WLA)**  
+- **Description:** A supramolecular coordination-based chemistry approach, where an effector molecule is used to selectively and reversibly break a weak metal-ligand bond in a large molecular structure, opening a nanoscale chemical pocket.  
+- **Synonyms:** None  
+- **Acronyms:** WLA  
+- **Antonyms:** Strong link approach  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Veno-Occlusive Disease
-**Description:** A condition in which some of the small veins in the liver are obstructed.
-**Synonyms:** Sinusoidal obstruction syndrome (SOS)
-**Acronyms:** VOD
+**Wetting**  
+- **Description:** In electronics, coating a contact surface with an adherent film of mercury. In metallurgy, wetting refers to spreading liquid filler metal or flux on a solid base metal. Wetting occurs if a liquid is in contact with another phase, typically a solid substrate, with the substrate exerting an attractive force on the liquid molecules.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** Non-wetting  
+- **Descriptor:** Nanochemistry
 
 ---
 
-#### Venous Thromboembolism
-**Description:** A condition in which a blood clot forms in a vein and may travel to the lungs.
-**Synonyms:** None
-**Acronyms:** VTE
+**X-ray analysis**  
+- **Description:** The use of X-ray radiation to detect heavy elements in the presence of lighter ones, to give critical-edge absorption to identify elemental composition, and to identify crystal structures by diffraction patterns.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### White Cell Count
-**Description:** The number of white blood cells in a volume of blood, used as an indicator of infection or inflammation.
-**Synonyms:** None
-**Acronyms:** WCC
+**X-ray diffraction**  
+- **Description:** The scattering of x-rays from a crystal, resulting in an interference pattern used to determine the structure of the crystal.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanocharacterization
 
 ---
 
-#### World Health Organization
-**Description:** A specialized agency of the United Nations responsible for international public health.
-**Synonyms:** None
-**Acronyms:** WHO
+**Ytterbium**  
+- **Description:** A rare-earth metal and member of the lanthanide family on the periodic table. Commonly found in nanomedicines, lasers, and upconversion nanoparticles.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Week
-**Description:** A unit of time equal to seven days.
-**Synonyms:** None
-**Acronyms:** wk
+**Young’s modulus (polymers)**  
+- **Description:** A material property which characterizes its ease of deformation.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanomaterial
 
 ---
 
-#### Wilms’ Tumour
-**Description:** A type of kidney cancer that primarily affects children.
-**Synonyms:** None
-**Acronyms:** WT
+**Zeta Potential**  
+- **Description:** The electrical potential difference at the interface between a solid particle and liquid that it is immersed in.  
+- **Synonyms:** None  
+- **Acronyms:** None  
+- **Antonyms:** None  
+- **Descriptor:** Nanotechnology
 
