@@ -1,4 +1,4 @@
-### Glossary of Nanotechnology Terms
+### Nanotechnology Terms Lexical Dictionary
 
 **Aerogel**
 - **Description:** A silicon-based foam composed mostly of air. Often called “frozen smoke” or “blue smoke”, aerogels have extremely low thermal conductivity, which gives them extraordinary insulating properties. They are the lowest-density solids known on earth.
