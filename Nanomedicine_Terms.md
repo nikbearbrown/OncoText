@@ -1,332 +1,387 @@
 
 ### Glossary of Nanotechnology Terms
 
-#### Formulation descriptor
-
 **Liposome**
 - **Description:** A spherical vesicle having at least one lipid bilayer, used to deliver drugs or genetic material into a cell.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Micelle**
 - **Description:** An aggregate of surfactant molecules dispersed in a liquid colloid, forming a hydrophobic core and a hydrophilic shell.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Nanoemulsion**
 - **Description:** A fine oil/water or water/oil dispersion having droplets in the nanometer size range, used in drug delivery systems.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Nanosuspension**
 - **Description:** A submicron colloidal dispersion of nanoparticles, used to enhance the solubility of poorly soluble drugs.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Nanocolloid**
 - **Description:** A stable dispersion of nanosized particles in a continuous medium.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Nanovesicles**
 - **Description:** Small vesicles on the nanometer scale, used for targeted drug delivery and molecular imaging.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Nanosomal**
 - **Description:** Relating to nanoscale liposomal formulations used in drug delivery.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Nanoionomer**
 - **Description:** A nanocomposite material used in dental and medical applications.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Nanodispersion**
 - **Description:** A dispersion containing nanoparticles evenly distributed in a continuous phase.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Nanomer**
 - **Description:** A term for nanomaterial or nanocomposite material.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
 **Nanoclonal**
 - **Description:** Refers to the cloning of nanoscale materials or structures.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Formulation descriptor
 
-#### Structural descriptor
+Sure, here is the updated glossary with the descriptor added:
 
 **Nanoparticle**
 - **Description:** Particles between 1 and 100 nanometers in size, used in a variety of biomedical and industrial applications.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanocrystal**
 - **Description:** Crystalline nanoparticles used in electronic and optical applications.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanobody**
 - **Description:** A type of antibody derived from single-domain antibodies, used in medical and biological research.
 - **Synonyms:** Single-domain antibody
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nano-fiber**
 - **Description:** Fibers with diameters in the nanometer range, used in filtration, medical, and composite materials.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanotube**
 - **Description:** Cylindrical nanostructures with novel properties, used in electronics, optics, and materials science.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanostrand**
 - **Description:** Strands of material on the nanometer scale.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanofuse**
 - **Description:** A nanomaterial used for creating strong, lightweight composites.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanocomposite**
 - **Description:** A multiphase solid material with one of the phases having one, two, or three dimensions of less than 100 nanometers.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanopore**
 - **Description:** A nanoporous structure, often used in molecular separation and DNA sequencing.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanomilled**
 - **Description:** Refers to the process of milling materials to the nanometer scale.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanofracture**
 - **Description:** Fracture of materials at the nanoscale, used in nanomechanics studies.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanodrop**
 - **Description:** A technique or tool for measuring very small volumes of liquid.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanochip**
 - **Description:** An integrated circuit or microchip at the nanoscale.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanodisk**
 - **Description:** Disk-shaped nanoparticles used in drug delivery and diagnostic applications.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanobubble**
 - **Description:** Gas-filled bubbles at the nanoscale, used in biomedical imaging and therapy.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanochannel**
 - **Description:** Channels at the nanoscale used in fluidics and sensor applications.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanoparasol**
 - **Description:** A nanomaterial with umbrella-like properties, often used in protective coatings.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Structural descriptor
 
 **Nanotab**
 - **Description:** Tablets or pills that incorporate nanotechnology for improved delivery of active ingredients.
 - **Synonyms:** None
 - **Acronyms:** None
-
-#### Functional descriptor
+- **Descriptor:** Structural descriptor
 
 **Nanopulse**
 - **Description:** A very short pulse of energy on the nanoscale, used in various technological applications.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nanopac**
 - **Description:** A nanoparticle-based packaging or delivery system.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nanobone**
 - **Description:** A nanomaterial used in bone regeneration and repair.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nano-scintillator**
 - **Description:** A nanomaterial that emits light when exposed to radiation, used in medical imaging.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nanofiltration**
 - **Description:** A filtration process that uses nanometer-sized pores to separate particles.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nano-MRI**
 - **Description:** Magnetic resonance imaging using nanotechnology to enhance resolution.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nano-imaging**
 - **Description:** Imaging techniques that use nanotechnology to improve resolution and sensitivity.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nano-electrosensing**
 - **Description:** Sensing techniques at the nanoscale using electrical properties.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nanocatalysis**
 - **Description:** Catalysis processes using nanomaterials to increase reaction rates.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nano-hybrid**
 - **Description:** A hybrid material incorporating nanomaterials for enhanced properties.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nanostim**
 - **Description:** Stimulation techniques at the nanoscale, often used in medical applications.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nanocross**
 - **Description:** A nanomaterial with cross-linked structure.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nanophthalmic**
 - **Description:** Relating to the application of nanotechnology in ophthalmology.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Functional descriptor
 
 **Nanophotothermal**
 - **Description:** Using nanotechnology for photothermal applications, such as in cancer treatment.
 - **Synonyms:** None
 - **Acronyms:** None
-
-#### Categorical descriptor
-
+- **Descriptor:** Functional descriptor
+  
 **Nano-drug**
 - **Description:** Drugs that use nanotechnology for improved delivery and efficacy.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanotechnology**
 - **Description:** The manipulation of matter on an atomic, molecular, and supramolecular scale for various applications.
 - **Synonyms:** Nanotech
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanomedicine**
 - **Description:** The application of nanotechnology for medical purposes, such as diagnostics, monitoring, and treatment.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanoencapsulated**
 - **Description:** Encapsulation of materials at the nanoscale, often for drug delivery.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanostructured**
 - **Description:** Materials with a structure at the nanoscale, offering unique properties.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanomolecular**
 - **Description:** Relating to molecules at the nanoscale.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanoflu**
 - **Description:** A term possibly related to nano-sized flu particles or nanotechnology in flu treatment.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanocytology**
 - **Description:** The study of cells at the nanoscale.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanodosing**
 - **Description:** The administration of very small doses of a substance using nanotechnology.
-- **Syn
-
-onyms:** None
+- **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanomaterial**
 - **Description:** Materials with any external dimension in the nanoscale or having internal structure or surface structure in the nanoscale.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
 **Nanoformulation**
 - **Description:** The formulation of drugs or other substances using nanotechnology.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Categorical descriptor
 
-#### Ingredient descriptor
+Certainly! Here is the glossary updated with the **Ingredient descriptor** for each term:
 
 **Nano-hydroxyapatite**
 - **Description:** A nanomaterial used in bone grafting and dental applications.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
 
 **Nanotite**
 - **Description:** A nanomaterial used in bone repair and dental implants.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
 
 **Nanocurcumin**
 - **Description:** Nanoformulated curcumin used for enhanced bioavailability and therapeutic effects.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
 
 **Nanosilver**
 - **Description:** Silver nanoparticles used for their antimicrobial properties.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
 
 **Nanodiamond**
 - **Description:** Nanometer-sized diamonds used in a variety of applications, including biomedical and industrial uses.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
 
 **Nano-ceramic**
 - **Description:** Ceramic materials at the nanoscale, offering enhanced mechanical properties.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
 
 **Nanovitamin**
 - **Description:** Vitamins formulated at the nanoscale for improved absorption and efficacy.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
 
 **Nano-iron**
 - **Description:** Iron nanoparticles used for environmental and biomedical applications.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
 
 **Nanocellulose**
 - **Description:** Cellulose materials at the nanoscale, used for their strength and lightweight properties.
 - **Synonyms:** None
 - **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
 
 This glossary includes the specified terms, their descriptions, synonyms, and acronyms. If you need further modifications or additions, please let me know!Sure! Here's a glossary with the specified terms, their descriptions, synonyms, and acronyms.
 
