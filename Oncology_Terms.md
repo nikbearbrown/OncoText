@@ -1,572 +1,100 @@
 
 ### Glossary of Nanotechnology Terms
 
-**Liposome**
-- **Description:** A spherical vesicle having at least one lipid bilayer, used to deliver drugs or genetic material into a cell.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Micelle**
-- **Description:** An aggregate of surfactant molecules dispersed in a liquid colloid, forming a hydrophobic core and a hydrophilic shell.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Nanoemulsion**
-- **Description:** A fine oil/water or water/oil dispersion having droplets in the nanometer size range, used in drug delivery systems.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Nanosuspension**
-- **Description:** A submicron colloidal dispersion of nanoparticles, used to enhance the solubility of poorly soluble drugs.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Nanocolloid**
-- **Description:** A stable dispersion of nanosized particles in a continuous medium.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Nanovesicles**
-- **Description:** Small vesicles on the nanometer scale, used for targeted drug delivery and molecular imaging.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Nanosomal**
-- **Description:** Relating to nanoscale liposomal formulations used in drug delivery.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Nanoionomer**
-- **Description:** A nanocomposite material used in dental and medical applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Nanodispersion**
-- **Description:** A dispersion containing nanoparticles evenly distributed in a continuous phase.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Nanomer**
-- **Description:** A term for nanomaterial or nanocomposite material.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-**Nanoclonal**
-- **Description:** Refers to the cloning of nanoscale materials or structures.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Formulation descriptor
-
-
-**Nanoparticle**
-- **Description:** Particles between 1 and 100 nanometers in size, used in a variety of biomedical and industrial applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanocrystal**
-- **Description:** Crystalline nanoparticles used in electronic and optical applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanobody**
-- **Description:** A type of antibody derived from single-domain antibodies, used in medical and biological research.
-- **Synonyms:** Single-domain antibody
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nano-fiber**
-- **Description:** Fibers with diameters in the nanometer range, used in filtration, medical, and composite materials.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanotube**
-- **Description:** Cylindrical nanostructures with novel properties, used in electronics, optics, and materials science.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanostrand**
-- **Description:** Strands of material on the nanometer scale.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanofuse**
-- **Description:** A nanomaterial used for creating strong, lightweight composites.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanocomposite**
-- **Description:** A multiphase solid material with one of the phases having one, two, or three dimensions of less than 100 nanometers.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanopore**
-- **Description:** A nanoporous structure, often used in molecular separation and DNA sequencing.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanomilled**
-- **Description:** Refers to the process of milling materials to the nanometer scale.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanofracture**
-- **Description:** Fracture of materials at the nanoscale, used in nanomechanics studies.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanodrop**
-- **Description:** A technique or tool for measuring very small volumes of liquid.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanochip**
-- **Description:** An integrated circuit or microchip at the nanoscale.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanodisk**
-- **Description:** Disk-shaped nanoparticles used in drug delivery and diagnostic applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanobubble**
-- **Description:** Gas-filled bubbles at the nanoscale, used in biomedical imaging and therapy.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanochannel**
-- **Description:** Channels at the nanoscale used in fluidics and sensor applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanoparasol**
-- **Description:** A nanomaterial with umbrella-like properties, often used in protective coatings.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanotab**
-- **Description:** Tablets or pills that incorporate nanotechnology for improved delivery of active ingredients.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Structural descriptor
-
-**Nanopulse**
-- **Description:** A very short pulse of energy on the nanoscale, used in various technological applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nanopac**
-- **Description:** A nanoparticle-based packaging or delivery system.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nanobone**
-- **Description:** A nanomaterial used in bone regeneration and repair.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nano-scintillator**
-- **Description:** A nanomaterial that emits light when exposed to radiation, used in medical imaging.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nanofiltration**
-- **Description:** A filtration process that uses nanometer-sized pores to separate particles.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nano-MRI**
-- **Description:** Magnetic resonance imaging using nanotechnology to enhance resolution.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nano-imaging**
-- **Description:** Imaging techniques that use nanotechnology to improve resolution and sensitivity.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nano-electrosensing**
-- **Description:** Sensing techniques at the nanoscale using electrical properties.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nanocatalysis**
-- **Description:** Catalysis processes using nanomaterials to increase reaction rates.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nano-hybrid**
-- **Description:** A hybrid material incorporating nanomaterials for enhanced properties.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nanostim**
-- **Description:** Stimulation techniques at the nanoscale, often used in medical applications.
-- **Synonyms:** None
+**Alumina**
+- **Description:** A ceramic material made of aluminum oxide. Alumina is often used as a substrate, or underlying layer, for experiments. Alumina can be mixed with various amounts of titania (titanium dioxide) to change its properties as a substrate.
+- **Synonyms:** Aluminum oxide
 - **Acronyms:** None
-- **Descriptor:** Functional descriptor
+- **Descriptor:** Nanomaterial
 
-**Nanocross**
-- **Description:** A nanomaterial with cross-linked structure.
+**Atomic force microscope (AFM)**
+- **Description:** A scanning probe microscopy instrument capable of revealing the structure of samples. The AFM uses a sharp metal tip positioned over a conducting or non-conducting substrate and the surface topography is mapped out by measuring the mechanical force exerted on the tip.
 - **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nanophthalmic**
-- **Description:** Relating to the application of nanotechnology in ophthalmology.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-
-**Nanophotothermal**
-- **Description:** Using nanotechnology for photothermal applications, such as in cancer treatment.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Functional descriptor
-  
-**Nano-drug**
-- **Description:** Drugs that use nanotechnology for improved delivery and efficacy.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanotechnology**
-- **Description:** The manipulation of matter on an atomic, molecular, and supramolecular scale for various applications.
-- **Synonyms:** Nanotech
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanomedicine**
-- **Description:** The application of nanotechnology for medical purposes, such as diagnostics, monitoring, and treatment.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanoencapsulated**
-- **Description:** Encapsulation of materials at the nanoscale, often for drug delivery.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanostructured**
-- **Description:** Materials with a structure at the nanoscale, offering unique properties.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanomolecular**
-- **Description:** Relating to molecules at the nanoscale.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanoflu**
-- **Description:** A term possibly related to nano-sized flu particles or nanotechnology in flu treatment.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanocytology**
-- **Description:** The study of cells at the nanoscale.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanodosing**
-- **Description:** The administration of very small doses of a substance using nanotechnology.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanomaterial**
-- **Description:** Materials with any external dimension in the nanoscale or having internal structure or surface structure in the nanoscale.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nanoformulation**
-- **Description:** The formulation of drugs or other substances using nanotechnology.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Categorical descriptor
-
-**Nano-hydroxyapatite**
-- **Description:** A nanomaterial used in bone grafting and dental applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Ingredient descriptor
-
-**Nanotite**
-- **Description:** A nanomaterial used in bone repair and dental implants.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Ingredient descriptor
-
-**Nanocurcumin**
-- **Description:** Nanoformulated curcumin used for enhanced bioavailability and therapeutic effects.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Ingredient descriptor
-
-**Nanosilver**
-- **Description:** Silver nanoparticles used for their antimicrobial properties.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Ingredient descriptor
-
-**Nanodiamond**
-- **Description:** Nanometer-sized diamonds used in a variety of applications, including biomedical and industrial uses.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Ingredient descriptor
-
-**Nano-ceramic**
-- **Description:** Ceramic materials at the nanoscale, offering enhanced mechanical properties.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Ingredient descriptor
-
-**Nanovitamin**
-- **Description:** Vitamins formulated at the nanoscale for improved absorption and efficacy.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Ingredient descriptor
+- **Acronyms:** AFM
+- **Descriptor:** Nanoinstrument
 
-**Nano-iron**
-- **Description:** Iron nanoparticles used for environmental and biomedical applications.
+**Atomic layer deposition (ALD)**
+- **Description:** A technique used to deposit thin films one atomic layer at a time using self-limiting gas phase reactions.
 - **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Ingredient descriptor
-
-**Nanocellulose**
-- **Description:** Cellulose materials at the nanoscale, used for their strength and lightweight properties.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Ingredient descriptor
-
-### Glossary of Nanotechnology Terms
-
-**Theranostic Nanomedicine**
-- **Description:** A field combining therapeutic and diagnostic nanomedicine to diagnose and treat diseases simultaneously.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanostructures**
-- **Description:** Structures with dimensions in the nanometer range, often with unique properties due to their size.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanotechnology**
-- **Description:** The manipulation of matter on an atomic, molecular, and supramolecular scale for various applications.
-- **Synonyms:** Nanotech
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanoparticles**
-- **Description:** Particles between 1 and 100 nanometers in size, used in various biomedical and industrial applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Liposomes**
-- **Description:** Spherical vesicles with at least one lipid bilayer, used to deliver drugs or genetic material into a cell.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanog Homeobox Protein**
-- **Description:** A transcription factor involved in maintaining the pluripotency of stem cells.
-- **Synonyms:** NANOG
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanocomposites**
-- **Description:** Materials composed of a matrix embedded with nanoparticles to improve certain properties.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanofibers**
-- **Description:** Fibers with diameters in the nanometer range, used in filtration, medical, and composite materials.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Metal Nanoparticles**
-- **Description:** Nanoparticles composed of metals, used in various applications including catalysis and medicine.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanotubes**
-- **Description:** Cylindrical nanostructures with novel properties, used in electronics, optics, and materials science.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Unilamellar Liposomes**
-- **Description:** Liposomes with a single lipid bilayer, used for drug delivery and other applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Micelles**
-- **Description:** Aggregates of surfactant molecules dispersed in a liquid colloid, forming a hydrophobic core and a hydrophilic shell.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanovirus**
-- **Description:** A virus with a size in the nanometer range.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanopore Sequencing**
-- **Description:** A technique for sequencing DNA using nanopores, allowing for real-time, high-throughput analysis.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanowires**
-- **Description:** Wire-like structures with a diameter in the nanometer range, used in various electronic and sensor applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Magnetite Nanoparticles**
-- **Description:** Iron oxide nanoparticles with magnetic properties, used in medical imaging and drug delivery.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Acronyms:** ALD
+- **Descriptor:** Nanofabrication
 
-**Nanomedicine**
-- **Description:** The application of nanotechnology for medical purposes, such as diagnostics, monitoring, and treatment.
+**Beam Pen Lithography (BPL)**
+- **Description:** A cantilever-free scanning probe technique based on polymer pen lithography, where patterning is accomplished by passing light through small apertures at the tips of pens in a two-dimensional tip array.
 - **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
-
-**Nanopores**
-- **Description:** Nanometer-sized pores used in molecular separation and DNA sequencing.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Acronyms:** BPL
+- **Descriptor:** Nanofabrication
 
-**Nanotubes, Carbon**
-- **Description:** Cylindrical carbon structures with novel properties, used in electronics, optics, and materials science.
-- **Synonyms:** Carbon Nanotubes
-- **Acronyms:** CNTs
-- **Descriptor:** MeSH Term
-
-**Nanocapsules**
-- **Description:** Nanoscale capsules used for drug delivery, often with a polymer shell.
+**Benanomicinone**
+- **Description:** A specific antibiotic compound.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Descriptor:** Small molecule
 
-**Nanospheres**
-- **Description:** Spherical nanoparticles used in drug delivery and diagnostic applications.
-- **Synonyms:** None
+**Biomimetics**
+- **Description:** The study of the structure and function of biological substances to develop man-made systems that mimic natural ones; imitating, copying, or learning from biological systems to create new materials and technologies.
+- **Synonyms:** Biomimicry
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Descriptor:** Nanotechnology
 
-**Nanogels**
-- **Description:** Hydrogel particles in the nanometer range, used for drug delivery and tissue engineering.
+**Biopolymer**
+- **Description:** A polymer found in nature. DNA and RNA are examples of naturally occurring biopolymers. See also polymer.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Antonyms:** Synthetic polymer
+- **Descriptor:** Nanomaterial
 
-**Nanodiamonds**
-- **Description:** Nanometer-sized diamonds used in biomedical and industrial applications.
+**Biosensor**
+- **Description:** A sensor used to detect a biological substance (for example: bacteria, blood gases, or hormones). Biosensors often make use of sensors that are themselves made of biological materials or of materials that are derived from or mimic biological materials.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Descriptor:** Nanosensor
 
-**Pregnanolone**
-- **Description:** A neuroactive steroid involved in modulating GABA receptors.
-- **Synonyms:** Allopregnanolone
+**Biosynthesis**
+- **Description:** The process by which living organisms produce chemical compounds.
+- **Synonyms:** Biological synthesis
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Antonyms:** Chemical synthesis
+- **Descriptor:** Nanobiotechnology
 
-**Magnetic Iron Oxide Nanoparticles**
-- **Description:** Iron oxide nanoparticles with magnetic properties, used in medical imaging and drug delivery.
+**Block copolymers**
+- **Description:** Self-assembled material composed of long sequences of “blocks” of the same monomer unit, covalently bound to sequences of unlike type.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Antonyms:** Homopolymer
+- **Descriptor:** Nanomaterial
 
-**Nanoconjugates**
-- **Description:** Nanoparticles conjugated with biomolecules for targeted drug delivery and imaging.
+**Bottom-up assembly**
+- **Description:** A methodology by which larger structures are made by assembling many smaller ones (e.g., when nanoparticle building blocks are brought together to create larger assemblies).
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Antonyms:** Top-down assembly
+- **Descriptor:** Nanofabrication
 
-**Nanoshells**
-- **Description:** Nanoparticles with a core-shell structure, often used in imaging and therapy.
+**Buckyball**
+- **Description:** See fullerene.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Descriptor:** Nanostructure
 
-**Nanoarchaeota**
-- **Description:** A phylum of archaea with nanoscale cellular structures.
+**BCTP 401 nanoemulsion**
+- **Description:** A specific type of nanoemulsion.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Descriptor:** Small molecule
 
-**Nanotubes, Peptide**
-- **Description:** Peptide-based cylindrical nanostructures used in biomedical applications.
+**BCTP nanoemulsion**
+- **Description:** A specific type of nanoemulsion.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Descriptor:** Small molecule
 
-**Nanoparticle Drug Delivery System**
-- **Description:** Systems that use nanoparticles to deliver drugs to specific sites in the body.
-- **Synonyms:** None
-- **Acronyms:** NDDS
-- **Descriptor:** MeSH Term
 
-**Multifunctional Nanoparticles**
-- **Description:** Nanoparticles designed with multiple functionalities, such as targeting, imaging, and therapy.
-- **Synonyms:** None
+**Carbon nanotubes**
+- **Description:** Long, thin cylinders of carbon, discovered in 1991 by S. Iijima. These large macromolecules are unique for their size, shape, and remarkable physical properties. They can be thought of as a sheet of graphite (a hexagonal lattice of carbon) rolled into a cylinder. The physical properties are still being discovered. Nanotubes have a very broad range of electronic, thermal, and structural properties that change depending on the different kinds of nanotube (defined by its diameter, length, and chirality, or twist). To make things more interesting, besides having a single cylindrical wall (Single Walled Nanotubes or SWNTs), nanotubes can have multiple walls (MWNTs)–cylinders inside the other cylinders. Sometimes referred to simply as nanotubes.
+- **Synonyms:** Nanorods
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Descriptor:** Nanostructure
 
 **Calcifying Nanoparticles**
 - **Description:** Nanoparticles involved in the calcification process, often studied in pathology.
@@ -574,160 +102,131 @@
 - **Acronyms:** None
 - **Descriptor:** MeSH Term
 
-**Nanoviridae**
-- **Description:** A family of viruses with genomes in the nanometer range.
+**Cell**
+- **Description:** A small, usually microscopic, membrane-bound structure that is the fundamental unit of all living things. Organisms can be made up of one cell (unicellular; bacteria, for example) or many cells (multicellular; human beings, for example, which are made up of an estimated 100,000 billion cells.)
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
+- **Descriptor:** Nanobiotechnology
 
-**Layer-by-Layer Nanoparticles**
-- **Description:** Nanoparticles created by sequentially depositing layers of materials.
+**Chemical vapor deposition (CVD)**
+- **Description:** A technique used to deposit thin layers of coatings on a substrate. In CVD, chemicals are vaporized and then applied to the substrate using an inert gas such as nitrogen as a carrier. CVD is used in the production of microchips, integrated circuits, sensors, and protective coatings.
+- **Synonyms:** None
+- **Acronyms:** CVD
+- **Descriptor:** Nanofabrication
+
+**Chemical vapor transport**
+- **Description:** A technique similar to CVD used to grow crystal structures.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** MeSH Term
-  
-Sure, here's the revised list with the entries that have the description "A specific chemical compound." removed:
+- **Descriptor:** Nanofabrication
 
-**Liposomes**
-- **Description:** Spherical vesicles with at least one lipid bilayer, used to deliver drugs or genetic material into a cell.
+**CRISPR**
+- **Description:** A technology in molecular biology that utilizes the Cas9 enzyme’s affinity to short palindromic sequences of DNA along with a guiding RNA sequence to target and edit genes within organisms.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Nanobiotechnology
+
+**Dip-pen nanolithography (DPN)**
+- **Description:** A method for nanoscale patterning of surfaces by the transfer of a material from the tip of an atomic force microscope onto the surface. Developed by Professor Chad A. Mirkin, the DPN allows researchers to precisely lay down or “write” chemicals, metals, biological macromolecules, and other molecular “inks” with nanometer dimensions and precision on a surface.
+- **Synonyms:** None
+- **Acronyms:** DPN
+- **Descriptor:** Nanofabrication
+
+
+**DNA bricks**
+- **Description:** A Lego-like DNA block that is used in DNA technology to build 2D and 3D nanostructures.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Nanobiotechnology
+
+
+**DNA origami**
+- **Description:** A technique in DNA nanotechnology that uses the specificity of DNA interactions to fold DNA scaffolds into complex structures in a facile manner.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Nanobiotechnology
+
+
+**Dynamic Light Scattering (DLS)**
+- **Description:** A characterization technique used to determine the size of nanoscale materials in a solution by analyzing the scattering intensity of a laser over time.
+- **Synonyms:** None
+- **Acronyms:** DLS
+- **Descriptor:** Nanocharacterization
+
+**Electroluminescence (EL)**
+- **Description:** The light produced by some materials — mainly semiconductors — when exposed to an electric field. In this process, the electric field excites electrons in the material, which then emit the excess energy in the form of photons. Light-emitting diodes (LEDs) are the most well known example of EL.
+- **Synonyms:** None
+- **Acronyms:** EL
+- **Descriptor:** Nanotechnology
+
+**Electron diffraction**
+- **Description:** A surface science technique used to examine solids by firing a beam of electrons at a sample and observing the electron deflection from the sample’s atomic nuclei.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Nanocharacterization
+
+**Electron microscopy**
+- **Description:** The visual examination of very small structures with a device that forms greatly magnified images of objects by using electrons rather than light to create an image. An electron microscope focuses a beam of electrons at an object and detects the actions of electrons as they scatter off the surface to form an image.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Nanocharacterization
+
+**Electron tunneling**
+- **Description:** The passage of electrons through a barrier that, according to the principles of classical mechanics, cannot be breached. An example of electron tunneling is the passage of an electron through a thin insulating barrier between two superconductors. Electron tunneling is a pure quantum mechanical effect that cannot be explained by a classical theory.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Nanophysics
+
+**Electro-optics**
+- **Description:** The study of the influence of an electric field on the optical properties of matter — especially in crystalline form — such as transmission, emission, and absorption of light. Also known as optoelectronics.
+- **Synonyms:** Optoelectronics
+- **Acronyms:** None
+- **Descriptor:** Nanotechnology
+
+**ENA-HRi nano-hybrid composite**
+- **Description:** A specific type of composite material.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**NANOG protein, human**
-- **Description:** A protein involved in the regulation of pluripotency in human stem cells.
+**Liposome**
+- **Description:** A spherical vesicle having at least one lipid bilayer, used to deliver drugs or genetic material into a cell.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** Small molecule
+- **Descriptor:** Formulation descriptor
 
-**Nanog Homeobox Protein**
-- **Description:** A transcription factor involved in maintaining the pluripotency of stem cells.
-- **Synonyms:** NANOG
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Unilamellar Liposomes**
-- **Description:** Liposomes with a single lipid bilayer, used for drug delivery and other applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Micelles**
-- **Description:** Aggregates of surfactant molecules dispersed in a liquid colloid, forming a hydrophobic core and a hydrophilic shell.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Proteoliposomes**
-- **Description:** Liposomes that incorporate proteins within their structure, used for various biomedical applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nanoluc**
-- **Description:** A luciferase enzyme used in bioluminescence imaging.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Magnetite Nanoparticles**
+**Magnetic Iron Oxide Nanoparticles**
 - **Description:** Iron oxide nanoparticles with magnetic properties, used in medical imaging and drug delivery.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** Small molecule
+- **Descriptor:** MeSH Term
 
-**2-nonanone**
-- **Description:** A ketone with the chemical formula C9H18O, used as a flavoring agent and in organic synthesis.
-- **Synonyms:** Methyl heptyl ketone
+**Micelle**
+- **Description:** An aggregate of surfactant molecules dispersed in a liquid colloid, forming a hydrophobic core and a hydrophilic shell.
+- **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** Small molecule
+- **Descriptor:** Formulation descriptor
 
-**Nanotubes, Carbon**
-- **Description:** Cylindrical carbon structures with novel properties, used in electronics, optics, and materials science.
-- **Synonyms:** Carbon Nanotubes
-- **Acronyms:** CNTs
-- **Descriptor:** Small molecule
-
-**1-nonanol**
-- **Description:** A fatty alcohol with the chemical formula C9H20O, used in organic synthesis.
-- **Synonyms:** Nonyl alcohol
+**Multifunctional Nanoparticles**
+- **Description:** Nanoparticles designed with multiple functionalities, such as targeting, imaging, and therapy.
+- **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** Small molecule
+- **Descriptor:** MeSH Term
 
-**Nanocapsules**
-- **Description:** Nanoscale capsules used for drug delivery, often with a polymer shell.
+**NAKTIIVQL nanopeptide**
+- **Description:** A specific peptide used in research.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Nanogels**
-- **Description:** Hydrogel particles in the nanometer range, used for drug delivery and tissue engineering.
+**Nano-Bond primer dual-cure adhesive**
+- **Description:** A dual-cure adhesive used in dental applications.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Polyethylene glycol polyethyleneimine nanogel**
-- **Description:** A type of nanogel used for drug delivery, composed of polyethylene glycol and polyethyleneimine.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Casein phosphopeptide-amorphous calcium phosphate nanocomplex**
-- **Description:** A nanocomplex used in dental care to remineralize teeth.
-- **Synonyms:** CPP-ACP
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nanodiamonds**
-- **Description:** Nanometer-sized diamonds used in biomedical and industrial applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Lipid Nanoparticles**
-- **Description:** Nanoparticles composed of lipids, used for drug delivery.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Pregnanolone**
-- **Description:** A neuroactive steroid involved in modulating GABA receptors.
-- **Synonyms:** Allopregnanolone
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**NVX-CoV2373 adjuvated lipid nanoparticle**
-- **Description:** A lipid nanoparticle used in the NVX-CoV2373 COVID-19 vaccine.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nanos3 protein, zebrafish**
-- **Description:** A protein involved in germ cell development in zebrafish.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nanog protein, mouse**
-- **Description:** A protein involved in the regulation of pluripotency in mouse stem cells.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Tunneling Nanotubes**
-- **Description:** Tubular structures that connect cells, allowing for the transfer of materials and signals.
-- **Synonyms:** None
-- **Acronyms:** TNTs
-- **Descriptor:** Small molecule
-
-**Nanoconjugates**
-- **Description:** Nanoparticles conjugated with biomolecules for targeted drug delivery and imaging.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**NanoOrange**
-- **Description:** A fluorescent dye used for protein quantification.
+**Nano-FUSE DBM**
+- **Description:** A specific demineralized bone matrix used in medical applications.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
@@ -738,14 +237,632 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Nanos1 protein, mouse**
-- **Description:** A protein involved in germ cell development in mice.
+**Nanobone**
+- **Description:** A nanomaterial used in bone regeneration and repair.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanocapsules**
+- **Description:** Nanoscale capsules used for drug delivery, often with a polymer shell.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanocatalysis**
+- **Description:** Catalysis processes using nanomaterials to increase reaction rates.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanocellulose**
+- **Description:** Cellulose materials at the nanoscale, used for their strength and lightweight properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanoclonal**
+- **Description:** Refers to the cloning of nanoscale materials or structures.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanocolloid**
+- **Description:** A stable dispersion of nanosized particles in a continuous medium.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanocomposite**
+- **Description:** A multiphase solid material with one of the phases having one, two, or three dimensions of less than 100 nanometers.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanoconjugates**
+- **Description:** Nanoparticles conjugated with biomolecules for targeted drug delivery and imaging.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**NANOS3 protein, human**
-- **Description:** A protein involved in germ cell development in humans.
+**Nanochip**
+- **Description:** An integrated circuit or microchip at the nanoscale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanocrystal**
+- **Description:** Crystalline nanoparticles used in electronic and optical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanocross**
+- **Description:** A nanomaterial with cross-linked structure.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanocurcumin**
+- **Description:** Nanoformulated curcumin used for enhanced bioavailability and therapeutic effects.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanodiamonds**
+- **Description:** Nanometer-sized diamonds used in biomedical and industrial applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanodisk**
+- **Description:** Disk-shaped nanoparticles used in drug delivery and diagnostic applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanodispersion**
+- **Description:** A dispersion containing nanoparticles evenly distributed in a continuous phase.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanodosing**
+- **Description:** The administration of very small doses of a substance using nanotechnology.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nano-drug**
+- **Description:** Drugs that use nanotechnology for improved delivery and efficacy.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nano-drop**
+- **Description:** A technique or tool for measuring very small volumes of liquid.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nano-electrosensing**
+- **Description:** Sensing techniques at the nanoscale using electrical properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanoemulsion**
+- **Description:** A fine oil/water or water/oil dispersion having droplets in the nanometer size range, used in drug delivery systems.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanoemulsion-Rosmarinus officinalis essential oil**
+- **Description:** A nanoemulsion containing rosemary essential oil used in various applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanofiber**
+- **Description:** Fibers with diameters in the nanometer range, used in filtration, medical, and composite materials.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanoflu**
+- **Description:** A term possibly related to nano-sized flu particles or nanotechnology in flu treatment.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanoformulation**
+- **Description:** The formulation of drugs or other substances using nanotechnology.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nano-fuse**
+- **Description:** A nanomaterial used for creating strong, lightweight composites.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nano-hybrid**
+- **Description:** A hybrid material incorporating nanomaterials for enhanced properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nano-hydroxyapatite**
+- **Description:** A nanomaterial used in bone grafting and dental applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nano-imaging**
+- **Description:** Imaging techniques that use nanotechnology to improve resolution and sensitivity.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanoionomer**
+- **Description:** A nanocomposite material used in dental and medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nano-lantern protein**
+- **Description:** A bioluminescent protein used in live cell imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanomaterial**
+- **Description:** Materials with any external dimension in the nanoscale or having internal structure or surface structure in the nanoscale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanomilled**
+- **Description:** Refers to the process of milling materials to the nanometer scale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanomedicine**
+- **Description:** The application of nanotechnology for medical purposes, such as diagnostics, monitoring, and treatment.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanomer**
+- **Description:** A term for nanomaterial or nanocomposite material.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanomolecular**
+- **Description:** Relating to molecules at the nanoscale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nano-MRI**
+- **Description:** Magnetic resonance imaging using nanotechnology to enhance resolution.
+- **Synonyms:** NanoMRI, Nano MRI
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanopac**
+- **Description:** A nanoparticle-based packaging or delivery system.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanoparticle**
+- **Description:** Particles between 1 and 100 nanometers in size, used in a variety of biomedical and industrial applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanoparticle Drug Delivery System**
+- **Description:** Systems that use nanoparticles to deliver drugs to specific sites in the body.
+- **Synonyms:** None
+- **Acronyms:** NDDS
+- **Descriptor:** Small molecule
+
+**Nanoparasol**
+- **Description:** A nanomaterial with umbrella-like properties, often used in protective coatings.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanopore**
+- **Description:** A nanoporous structure, often used in molecular separation and DNA sequencing.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanopore Sequencing**
+- **Description:** A technique for sequencing DNA using nanopores, allowing for real-time, high-throughput analysis.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanorod**
+- **Description:** A nanostructure in the form of a rod with a high aspect ratio.
+- **Synonyms:** Nanotube
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanoseal**
+- **Description:** A specific type of nanotechnology-based sealant.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanosilver**
+- **Description:** Silver nanoparticles used for their antimicrobial properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanosomal**
+- **Description:** Relating to nanoscale liposomal formulations used in drug delivery.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanosomes**
+- **Description:** Nanoscale liposomes used in drug delivery systems.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanospheres**
+- **Description:** Spherical nanoparticles used in drug delivery and diagnostic applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanostim**
+- **Description:** Stimulation techniques at the nanoscale, often used in medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanostrand**
+- **Description:** Strands of material on the nanometer scale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanostructured**
+- **Description:** Materials with a structure at the nanoscale, offering unique properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanostructures**
+- **Description:** Structures with dimensions in the nanometer range, often with unique properties due to their size.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanotab**
+- **Description:** Tablets or pills that incorporate nanotechnology for improved delivery of active ingredients.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanotechnology**
+- **Description:** The manipulation of matter on an atomic, molecular, and supramolecular scale for various applications.
+- **Synonyms:** Nanotech
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanotite**
+- **Description:** A nanomaterial used in bone repair and dental implants.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanotubes**
+- **Description:** Cylindrical nanostructures with novel properties, used in electronics, optics, and materials science.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanotubes, Carbon**
+- **Description:** Cylindrical carbon structures with novel properties, used in electronics, optics, and materials science.
+- **Synonyms:** Carbon Nanotubes
+- **Acronyms:** CNTs
+- **Descriptor:** MeSH Term
+
+**Nanotubes, Peptide**
+- **Description:** Peptide-based cylindrical nanostructures used in biomedical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanopeptide**
+- **Description:** A peptide at the nanoscale used in various biological and medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanovesicles**
+- **Description:** Small vesicles on the nanometer scale, used for targeted drug delivery and molecular imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nano-Bond primer dual-cure adhesive**
+- **Description:** A dual-cure adhesive used in dental applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanobubble**
+- **Description:** Gas-filled bubbles at the nanoscale, used in biomedical imaging and therapy.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanocomposites**
+- **Description:** Materials composed of a matrix embedded with nanoparticles to improve certain properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanoemulsion**
+- **Description:** A fine oil/water or water/oil dispersion having droplets in the nanometer size range, used in drug delivery systems.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanoemulsion-Rosmarinus officinalis essential oil**
+- **Description:** A nanoemulsion containing rosemary essential oil used in various applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanofiber**
+- **Description:** Fibers with diameters in the nanometer range, used in filtration, medical, and composite materials.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanoflu**
+- **Description:** A term possibly related to nano-sized flu particles or nanotechnology in flu treatment.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanoformulation**
+- **Description:** The formulation of drugs or other substances using nanotechnology.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nano-fuse**
+- **Description:** A nanomaterial used for creating strong, lightweight composites.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nano-hybrid**
+- **Description:** A hybrid material incorporating nanomaterials for enhanced properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nano-hydroxyapatite**
+- **Description:** A nanomaterial used in bone grafting and dental applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nano-imaging**
+- **Description:** Imaging techniques that use nanotechnology to improve resolution and sensitivity.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanoionomer**
+- **Description:** A nanocomposite material used in dental and medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nano-lantern protein**
+- **Description:** A bioluminescent protein used in live cell imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanomaterial**
+- **Description:** Materials with any external dimension in the nanoscale or having internal structure or surface structure in the nanoscale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanomilled**
+- **Description:** Refers to the process of milling materials to the nanometer scale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanomedicine**
+- **Description:** The application of nanotechnology for medical purposes, such as diagnostics, monitoring, and treatment.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanomer**
+- **Description:** A term for nanomaterial or nanocomposite material.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanomolecular**
+- **Description:** Relating to molecules at the nanoscale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nano-MRI**
+- **Description:** Magnetic resonance imaging using nanotechnology to enhance resolution.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanopac**
+- **Description:** A nanoparticle-based packaging or delivery system.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanoparticle**
+- **Description:** Particles between 1 and 100 nanometers in size, used in a variety of biomedical and industrial applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanoparticle Drug Delivery System**
+- **Description:** Systems that use nanoparticles to deliver drugs to specific sites in the body.
+- **Synonyms:** None
+- **Acronyms:** NDDS
+- **Descriptor:** Small molecule
+
+**Nanoparasol**
+- **Description:** A nanomaterial with umbrella-like properties, often used in protective coatings.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanopore**
+- **Description:** A nanoporous structure, often used in molecular separation and DNA sequencing.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanopore Sequencing**
+- **Description:** A technique for sequencing DNA using nanopores, allowing for real-time, high-throughput analysis.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanorod**
+- **Description:** A nanostructure in the form of a rod with a high aspect ratio.
+- **Synonyms:** Nanotube
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanoseal**
+- **Description:** A specific type of nanotechnology-based sealant.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanosilver**
+- **Description:** Silver nanoparticles used for their antimicrobial properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanosomal**
+- **Description:** Relating to nanoscale liposomal formulations used in drug delivery.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanosomes**
+- **Description:** Nanoscale liposomes used in drug delivery systems.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanospheres**
+- **Description:** Spherical nanoparticles used in drug delivery and diagnostic applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanostim**
+- **Description:** Stimulation techniques at the nanoscale, often used in medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Functional descriptor
+
+**Nanostrand**
+- **Description:** Strands of material on the nanometer scale.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanostructured**
+- **Description:** Materials with a structure at the nanoscale, offering unique properties.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanostructures**
+- **Description:** Structures with dimensions in the nanometer range, often with unique properties due to their size.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** MeSH Term
+
+**Nanotab**
+- **Description:** Tablets or pills that incorporate nanotechnology for improved delivery of active ingredients.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanotechnology**
+- **Description:** The manipulation of matter on an atomic, molecular, and supramolecular scale for various applications.
+- **Synonyms:** Nanotech
+- **Acronyms:** None
+- **Descriptor:** Categorical descriptor
+
+**Nanotite**
+- **Description:** A nanomaterial used in bone repair and dental implants.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Ingredient descriptor
+
+**Nanotubes**
+- **Description:** Cylindrical nanostructures with novel properties, used in electronics, optics, and materials science.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Structural descriptor
+
+**Nanotubes, Carbon**
+- **Description:** Cylindrical carbon structures with novel properties, used in electronics, optics, and materials science.
+- **Synonyms:** Carbon Nanotubes
+- **Acronyms:** CNTs
+- **Descriptor:** MeSH Term
+
+**Nanotubes, Peptide**
+- **Description:** Peptide-based cylindrical nanostructures used in biomedical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanopeptide**
+- **Description:** A peptide at the nanoscale used in various biological and medical applications.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanovesicles**
+- **Description:** Small vesicles on the nanometer scale, used for targeted drug delivery and molecular imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Formulation descriptor
+
+**Nanolobatol A**
+- **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
@@ -756,109 +873,11 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Nanotubes, Peptide**
-- **Description:** Peptide-based cylindrical nanostructures used in biomedical applications.
+**Nanogels**
+- **Description:** Hydrogel particles in the nanometer range, used for drug delivery and tissue engineering.
 - **Synonyms:** None
 - **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nb80 nanobody**
-- **Description:** A specific nanobody used in research and therapeutic applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nanoparticle Drug Delivery System**
-- **Description:** Systems that use nanoparticles to deliver drugs to specific sites in the body.
-- **Synonyms:** None
-- **Acronyms:** NDDS
-- **Descriptor:** Small molecule
-
-**Nanos2 protein, mouse**
-- **Description:** A protein involved in germ cell development in mice.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Technetium Tc 99m nanocolloid**
-- **Description:** A radiopharmaceutical used for diagnostic imaging.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nanos3 protein, mouse**
-- **Description:** A protein involved in germ cell development in mice.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**NANOS1 protein, human**
-- **Description:** A protein involved in germ cell development in humans.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Perfluoro-n-nonanoic acid**
-- **Description:** A fluorinated carboxylic acid used in various industrial applications.
-- **Synonyms:** PFNA
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**17-hydroxypregnanolone**
-- **Description:** A steroid metabolite.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Poly(3-hydroxyvalerate)-(3-hydroxyheptanoate)-(3-hydroxynonanoate)-(3-hydroxyundecanoate) copolymer**
-- **Description:** A biodegradable polymer used in various applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Poly(3-hydroxynonanoate)**
-- **Description:** A biodegradable polymer used in various applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Hexadecyl isononanoate**
-- **Description:** A specific ester used in cosmetic formulations.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nonanoyl amido caproylacid oxybenzenesulfonate**
-- **Description:** A specific surfactant.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Poly(2-hydroxyethyl methacrylate)-nanocrystalline hydroxyapatite**
-
-
-- **Description:** A composite material used in biomedical applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**6-(N-nonanoyl-L-valylamino)-propyltrimethylammonium bromide**
-- **Description:** A specific surfactant.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Cholesteryl nonanoate**
-- **Description:** A specific cholesterol derivative.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Liposome-encapsulated hemoglobin**
-- **Description:** A type of hemoglobin encapsulated in liposomes for medical applications.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
+- **Descriptor:** MeSH Term
 
 **NB-201 nanoemulsion**
 - **Description:** A specific type of nanoemulsion.
@@ -872,26 +891,74 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Nano-Bond primer dual-cure adhesive**
-- **Description:** A dual-cure adhesive used in dental applications.
+**Nanolobatol A**
+- **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Ketac Nano**
-- **Description:** A specific type of dental restorative material.
+**NanoRNase, Bacteroides fragilis**
+- **Description:** An enzyme with RNase activity from Bacteroides fragilis.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Nanog protein, zebrafish**
-- **Description:** A protein involved in the regulation of pluripotency in zebrafish.
+**Nano-PSO**
+- **Description:** A specific type of nanoparticle.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Epiallopregnanolone sulfate**
-- **Description:** A specific sulfate ester of a neuroactive steroid.
+**NanoBone**
+- **Description:** A nanotechnology-based bone graft material.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**1-palmitoyl-2-(9-(2-anthryl)nonanoyl)glycero-3-phosphocholine**
+- **Description:** A specific phospholipid.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**N-(3-(N-hydroxycarboxamido)-2-(2-methylpropyl)-propananoyl)-O-methyl-tyrosine-N-methylamide**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**4,8-dioxa-3H-perfluorononanoic acid**
+- **Description:** A fluorinated carboxylic acid used in various industrial applications.
+- **Synonyms:** PFNA
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ammonium 4,8-dioxa-3H-perfluorononanoate**
+- **Description:** A specific ammonium salt.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9,19-cycloart-7beta, 24R, 25-triol-1-en-3-one 25-O-beta-D-glucopynanoside**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Squalenoyl-gemcitabine-edelfosine nanoassemblies**
+- **Description:** Specific nanoassemblies used in biomedical research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Technetium Tc 99m nanocolloid**
+- **Description:** A radiopharmaceutical used for diagnostic imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Technetium Tc 99m polyphase liposome oleatis**
+- **Description:** A specific radiopharmaceutical used for diagnostic imaging.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
@@ -900,10 +967,66 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Description:** A specific type of nanobody used in research.
 - **Synonyms:** None
 - **Acronyms:** None
+-
+
+ **Descriptor:** Small molecule
+
+**NB-201 nanoemulsion**
+- **Description:** A specific type of nanoemulsion.
+- **Synonyms:** None
+- **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**1-hexylthio-2-nonanoylamino-1,2-dideoxy-sn-glycero-3-phosphocholine**
-- **Description:** A specific phospholipid derivative.
+**NB-402 nanoemulsion**
+- **Description:** A specific type of nanoemulsion.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**NanoBone**
+- **Description:** A nanotechnology-based bone graft material.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**1-isonicotinyl-2-nonanoyl hydrazine**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**1-palmitoyl-2-(9-(2-anthryl)nonanoyl)glycero-3-phosphocholine**
+- **Description:** A specific phospholipid.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9-(4-azidophenoxy)nonanoic acid**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9-phenylnonanohydroxamic acid**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**9-fluoro-1-nonanol**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**6-(N-nonanoyl-L-valylamino)-propyltrimethylammonium bromide**
+- **Description:** A specific surfactant.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**N-(3-(N-hydroxycarboxamido)-2-(2-methylpropyl)-propananoyl)-O-methyl-tyrosine-N-methylamide**
+- **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
@@ -920,73 +1043,25 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Nonanoyl-coenzyme A**
-- **Description:** A specific acyl-coenzyme A derivative.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**1,2-dioleoyl-3-(9-(3-perylenoyl)nonanoyl)glycerol**
-- **Description:** A specific lipid.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**4,8-dioxa-3H-perfluorononanoic acid**
-- **Description:** A fluorinated carboxylic acid used in various industrial applications.
-- **Synonyms:** PFNA
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**NanoRNase, Bacteroides fragilis**
-- **Description:** An enzyme with RNase activity from Bacteroides fragilis.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nanoseal**
-- **Description:** A specific type of nanotechnology-based sealant.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**1-palmitoyl-2-(9-(2-anthryl)nonanoyl)glycero-3-phosphocholine**
-- **Description:** A specific phospholipid.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**BCTP 401 nanoemulsion**
-- **Description:** A specific type of nanoemulsion.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**BCTP nanoemulsion**
-- **Description:** A specific type of nanoemulsion.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**NanoBone**
-- **Description:** A nanotechnology-based bone graft material.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**5-acetamido-2,6-anhydro-2,3-dehydro-3,5-dideoxy-glycerogalactononanoic acid**
+**6-aldehydo-7-methoxyiso-ophiopogonanone B**
 - **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**9-(4-azidophenoxy)nonanoic acid**
+**8-formylophiopogonanone B**
 - **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**6-azipregnanolone**
+**8-O-4' neolignan glucoside debilignanoside**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ophiopogonanone G**
 - **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
@@ -998,135 +1073,25 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
+**Squalenoyl-gemcitabine-edelfosine nanoassemblies**
+- **Description:** Specific nanoassemblies used in biomedical research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Technetium Tc 99m nanocolloid**
+- **Description:** A radiopharmaceutical used for diagnostic imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Technetium Tc 99m polyphase liposome oleatis**
+- **Description:** A specific radiopharmaceutical used for diagnostic imaging.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
 **Spicatocadinanolide A**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**4 O-daunosaminyl-2,4,5,12-tetrahydroxy-2-nonanoyl-1,2,3,4-tetrahydro-6,11-naphthacenedione**
-- **Description:** A specific anthracycline derivative.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Coniferyl 8-methylnonanoate**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**3-methylene-2-norbornanone**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Benanomicinone**
-- **Description:** A specific antibiotic compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Valeriananoid A**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Valeriananoid B**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Valeriananoid C**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nano-1 peptide**
-- **Description:** A specific peptide used in biomedical research.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Ethyl nonanoate**
-- **Description:** An ester with the chemical formula C11H22O2, used in flavorings and fragrances.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**2-hydroxy-3-pinanone ketimine**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Pinanol**
-- **Description:** A specific terpene alcohol.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Hainanolidol**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**9-fluoro-1-nonanol**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**6-formyl-isoophiopogonanone A**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**1H,1H,9H- perfluorononanol**
-- **Description:** A specific fluorinated alcohol.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor
-
-:** Small molecule
-
-**Ammonium 4,8-dioxa-3H-perfluorononanoate**
-- **Description:** A specific ammonium salt.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**8-formylophiopogonanone B**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**N-(3-(N-hydroxycarboxamido)-2-(2-methylpropyl)-propananoyl)-O-methyl-tyrosine-N-methylamide**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**ENA-HRi nano-hybrid composite**
-- **Description:** A specific type of composite material.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**9-phenylnonanohydroxamic acid**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Nanolobatol A**
 - **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
@@ -1138,14 +1103,38 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Squalenoyl-gemcitabine-edelfosine nanoassemblies**
-- **Description:** Specific nanoassemblies used in biomedical research.
+**Chandonanol**
+- **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Ophiopogonanone H**
+**Coniferyl 8-methylnonanoate**
 - **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ethyl 9-(2',5'-dihydroxyphenyl)nonanoate**
+- **Description:** A specific ester used in organic synthesis.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Ethyl nonanoate**
+- **Description:** An ester with the chemical formula C11H22O2, used in flavorings and fragrances.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Hainanolidol**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Hexadecyl isononanoate**
+- **Description:** A specific ester used in cosmetic formulations.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
@@ -1174,14 +1163,26 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**Nanos2 protein, rat**
-- **Description:** A protein involved in germ cell development in rats.
+**Nanolobatol A**
+- **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**2-hydroxy-5-nonanoylbenzamide**
+**Ophiopogonanone H**
 - **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Nanolobatol A**
+- **Description:** A specific chemical compound.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Technetium Tc 99m nanocolloid**
+- **Description:** A radiopharmaceutical used for diagnostic imaging.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
@@ -1192,37 +1193,19 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**6-aldehydo-7-methoxyiso-ophiopogonanone B**
+**Squalenoyl-gemcitabine-edelfosine nanoassemblies**
+- **Description:** Specific nanoassemblies used in biomedical research.
+- **Synonyms:** None
+- **Acronyms:** None
+- **Descriptor:** Small molecule
+
+**Spicatocadinanolide A**
 - **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**NAKTIIVQL nanopeptide**
-- **Description:** A specific peptide used in research.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**8-O-4' neolignan glucoside debilignanoside**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Chandonanol**
-- **Description:** A specific chemical compound.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Ethyl 9-(2',5'-dihydroxyphenyl)nonanoate**
-- **Description:** A specific ester used in organic synthesis.
-- **Synonyms:** None
-- **Acronyms:** None
-- **Descriptor:** Small molecule
-
-**Qinanone G**
+**Omega-(diazirinophenoxy)nonanoic acid**
 - **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
@@ -1234,17 +1217,19 @@ Sure, here's the revised list with the entries that have the description "A spec
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**NanoFUSE DBM**
-- **Description:** A specific demineralized bone matrix used in medical applications.
+**8-O-4' neolignan glucoside debilignanoside**
+- **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
 
-**9-((((2-(125I)iodo-4-((trifluoromethyl)-3H-diazirin-3-yl)benzyl)oxy)carbonyl)nonanoyl)-GM1 ganglioside**
-- **Description:** A specific radiolabeled compound used in research.
+**8-formylophiopogonanone B**
+- **Description:** A specific chemical compound.
 - **Synonyms:** None
 - **Acronyms:** None
 - **Descriptor:** Small molecule
+
+**6-aldehydo-7-methoxyiso
 
 **1-isonicotinyl-2-nonanoyl hydrazine**
 - **Description:** A specific chemical compound.
